@@ -1,0 +1,4 @@
+.box {
+  composes: box from "../../../css/global.css";
+  background-color: green;
+}
