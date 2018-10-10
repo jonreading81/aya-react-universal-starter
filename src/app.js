@@ -1,13 +1,19 @@
 import React from 'react';
+import { Route, Switch, NavLink } from 'react-router-dom';
 import { hot } from 'react-hot-loader';
-import ExampleBox from './components/presentation/ExampleBox/ExampleBox';
+import * as Routes from './routes';
 import 'normalize.css';
 import './scss/main.scss';
 
 const App = () => (
   <div>
-    <h1>Hello I am amye!  </h1>
-    <ExampleBox />
+    <h1>Hello I am Amys Aya!  </h1>
+    <NavLink to="/">Home</NavLink>
+    <NavLink to="/articles">Articles</NavLink>
+    <Switch>
+      <Route exact path="/" component={Routes.Home} />
+      <Route path="/articles" component={Routes.Articles} />
+    </Switch>
   </div>
 );
 

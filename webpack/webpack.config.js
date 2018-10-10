@@ -1,12 +1,21 @@
 const path = require('path');
+const BundleAnalyzerPlugin = require('webpack-bundle-analyzer').BundleAnalyzerPlugin;
 
-module.exports = {
+const projectDir = path.resolve(__dirname, '..');
+
+const plugins = [];
+
+if (process.env.NODE_ENV  ===  'analyse') {
+  plugins.push(new BundleAnalyzerPlugin());
+}
+
+const config = {
   entry: {
     client: ['./src/index.js'],
     vendor: ['react', 'react-dom', 'redux']
   },
   output: {
-    path: path.resolve(__dirname, '../build/static'),
+    path: path.resolve(projectDir, 'build/static'),
 		filename: '[name].[hash].js',
 		chunkFilename: '[name].[hash].js'
   },
@@ -21,6 +30,7 @@ module.exports = {
     }
  }
   },
+  plugins: plugins,
   module: {
     rules: [
       {
@@ -70,3 +80,5 @@ module.exports = {
     ]
   }
 };
+
+module.exports = config;

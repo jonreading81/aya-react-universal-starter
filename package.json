@@ -12,7 +12,8 @@
     "prod:clean": "rimraf build",
     "prod:client:build": "webpack --config webpack/webpack.config.client.prod.babel.js --mode production",
     "prod:server:build": "webpack --config ./webpack/webpack.config.server.babel.js --mode production --colors --display-error-details",
-    "prod:server:start": " node ./server/start"
+    "prod:server:start": " node ./server/start",
+    "analyse-bundle": "NODE_ENV=analyse webpack --config webpack/webpack.config.client.prod.babel.js -p"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +21,7 @@
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
+    "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/preset-env": "^7.1.0",
     "@babel/preset-react": "^7.0.0",
     "@babel/register": "^7.0.0",
@@ -41,6 +43,7 @@
     "style-loader": "^0.23.0",
     "universal-webpack": "^0.6.6",
     "webpack": "^4.20.2",
+    "webpack-bundle-analyzer": "^3.0.2",
     "webpack-cli": "^2.0.13",
     "webpack-dev-server": "^3.1.9"
   },
@@ -52,8 +55,10 @@
     "react-dom": "^16.5.2",
     "react-helmet": "^5.2.0",
     "react-hot-loader": "^4.3.11",
+    "react-loadable": "^5.5.0",
     "react-redux": "^5.0.7",
     "react-router": "^4.3.1",
+    "react-router-dom": "^4.3.1",
     "redux": "^4.0.0"
   }
 }
