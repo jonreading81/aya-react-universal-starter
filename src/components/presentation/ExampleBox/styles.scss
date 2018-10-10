@@ -1,0 +1,4 @@
+.box {
+  composes: box from "../../../scss/main.scss";
+  background-color: green;
+}

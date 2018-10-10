@@ -1,14 +1,14 @@
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { hot } from 'react-hot-loader';
 import ExampleBox from './components/presentation/ExampleBox/ExampleBox';
 import 'normalize.css';
 import './scss/main.scss';
 
 const App = () => (
   <div>
-    <h1>Hello I am AYA!</h1>
+    <h1>Hello I am amye!  </h1>
     <ExampleBox />
   </div>
 );
 
-ReactDOM.render(<App />, document.getElementById('index'));
+export default hot(module)(App);
