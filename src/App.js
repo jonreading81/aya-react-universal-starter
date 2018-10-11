@@ -2,7 +2,6 @@ import React from 'react';
 import { Route, Switch, NavLink } from 'react-router-dom';
 import { hot } from 'react-hot-loader';
 import * as Routes from './routes';
-import 'normalize.css';
 import './scss/main.scss';
 
 const App = () => (
