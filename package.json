@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "npm-run-all --parallel clean dev:client:build dev:server:build dev:server:start",
+    "start": "npm-run-all --parallel dev:client:build dev:server:build dev:server:start",
     "prod": "npm-run-all clean prod:client:build prod:server:build prod:server:start",
     "dev:client:build": "webpack-dev-server --port 9000 --inline  --hot --config webpack/webpack.config.client.dev.babel.js",
     "dev:server:build": "webpack -d --watch --config ./webpack/webpack.config.server.babel.js --colors --display-error-details",
