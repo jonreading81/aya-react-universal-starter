@@ -50,7 +50,7 @@
   "dependencies": {
     "express": "^4.16.3",
     "install": "^0.12.1",
-    "normalize.css": "^8.0.0",
+    "normalize-scss": "^7.0.1",
     "npm": "^6.4.1",
     "prop-types": "^15.6.2",
     "react": "^16.5.2",
@@ -62,7 +62,6 @@
     "react-router": "^4.3.1",
     "react-router-dom": "^4.3.1",
     "redux": "^4.0.0",
-    "serialize-javascript": "^1.5.0",
-    "typebase.css": "^0.5.0"
+    "serialize-javascript": "^1.5.0"
   }
 }
