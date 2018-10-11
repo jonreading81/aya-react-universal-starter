@@ -7,11 +7,24 @@ import { StaticRouter } from 'react-router';
 import { Provider } from 'react-redux';
 import { renderToString } from 'react-dom/server';
 import path from 'path';
+import serialize from 'serialize-javascript';
 import { getBundles } from 'react-loadable/webpack';
 import stats from '../build/static/react-loadable.json';
 import Html from './Html';
 import App from '../src/App';
 import reducers from '../src/redux/reducers';
+
+const getAppContent = (store, url, loadableCaptureReport) => (
+  renderToString(
+    <Provider store={store}>
+      <StaticRouter location={url} context={{}}>
+        <Loadable.Capture report={loadableCaptureReport}>
+          <App />
+        </Loadable.Capture>
+      </StaticRouter>
+    </Provider>,
+  )
+);
 
 export default function startServer({ chunks }) {
   const app = express();
@@ -22,22 +35,17 @@ export default function startServer({ chunks }) {
     const store = createStore(reducers);
     const loadedModules = [];
 
-    const appContent = renderToString(
-      <Provider store={store}>
-        <StaticRouter location={req.url} context={{}}>
-          <Loadable.Capture report={module => loadedModules.push(module)}>
-            <App />
-          </Loadable.Capture>
-        </StaticRouter>
-      </Provider>,
-    );
+    /* used to create bundles for code splitting */
+    const loadableCaptureReport = module => loadedModules.push(module);
+    const appContent = getAppContent(store, req.url, loadableCaptureReport);
     const bundles = getBundles(stats, loadedModules);
-
+    console.log(loadedModules);
     const htmlContent = renderToString(
       <Html
         bundles={bundles}
         assets={assets}
         appContent={appContent}
+        serialisedState={serialize(store.getState())}
       />,
     );
 

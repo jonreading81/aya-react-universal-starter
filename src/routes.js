@@ -5,7 +5,7 @@ import Home from './components/presentation/Home/Home';
 const Loading = () => <h2>Loading</h2>;
 
 const Articles = Loadable({
-  loader: () => import('./components/presentation/Articles/Articles'),
+  loader: () => import(/* webpackChunkName: "articles" */ './components/presentation/Articles/Articles'),
   loading: Loading,
 });
 

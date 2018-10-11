@@ -9,7 +9,7 @@ const App = () => (
   <div>
     <h1>Hello I am Amys Aya!  </h1>
     <NavLink to="/">Home</NavLink>
-    <NavLink to="/articles">Articles</NavLink>
+    <NavLink to="/articles">Article</NavLink>
     <Switch>
       <Route exact path="/" component={Routes.Home} />
       <Route path="/articles" component={Routes.Articles} />
