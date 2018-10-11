@@ -13,6 +13,7 @@ import stats from '../build/static/react-loadable.json';
 import Html from './Html';
 import App from '../src/App';
 import reducers from '../src/redux/reducers';
+import appConfig from '../config';
 
 const getAppContent = (store, url, loadableCaptureReport) => (
   renderToString(
@@ -52,11 +53,11 @@ export default function startServer({ chunks }) {
   });
 
   Loadable.preloadAll().then(() => {
-    app.listen(3000, '0.0.0.0', (err) => {
+    app.listen(appConfig.app.port, appConfig.app.ip, (err) => {
       if (err) {
         console.error(err);
       } else {
-        console.info('Listening at http://localhost:3000');
+        console.info(`Listening at http://${appConfig.app.host}:${appConfig.app.port}`);
       }
     });
   });
