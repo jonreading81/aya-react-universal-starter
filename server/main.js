@@ -39,7 +39,6 @@ export default function startServer({ chunks }) {
     const loadableCaptureReport = module => loadedModules.push(module);
     const appContent = getAppContent(store, req.url, loadableCaptureReport);
     const bundles = getBundles(stats, loadedModules);
-    console.log(loadedModules);
     const htmlContent = renderToString(
       <Html
         bundles={bundles}
