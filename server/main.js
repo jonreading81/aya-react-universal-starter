@@ -53,7 +53,7 @@ export default function startServer({ chunks }) {
   });
 
   Loadable.preloadAll().then(() => {
-    app.listen(appConfig.app.port, appConfig.app.ip, (err) => {
+    app.listen(appConfig.app.port, '0.0.0.0', (err) => {
       if (err) {
         console.error(err);
       } else {

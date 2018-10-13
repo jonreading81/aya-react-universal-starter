@@ -1,17 +1,21 @@
 import React from 'react';
 import { Route, Switch, NavLink } from 'react-router-dom';
 import { hot } from 'react-hot-loader';
-import * as Routes from './routes';
+import { Home, Articles, Article } from './routes';
 import './scss/main.scss';
 
 const App = () => (
   <div>
     <h1>Hello I am Amys Aya!  </h1>
-    <NavLink to="/">Home</NavLink>
-    <NavLink to="/articles">Article</NavLink>
+    <ul>
+      <li><NavLink to="/">Home</NavLink></li>
+      <li><NavLink to="/articles">Articles</NavLink></li>
+      <li><NavLink to="/article">article</NavLink></li>
+    </ul>
     <Switch>
-      <Route exact path="/" component={Routes.Home} />
-      <Route path="/articles" component={Routes.Articles} />
+      <Route exact path="/" component={Home} />
+      <Route path="/articles" component={Articles} />
+      <Route path="/article" component={Article} />
     </Switch>
   </div>
 );

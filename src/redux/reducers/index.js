@@ -1,8 +1,8 @@
 import { combineReducers } from 'redux';
+import articles from './articles';
 
-const blankReducer = (state = {}) => state;
 const reducers = combineReducers({
-  blankReducer,
+  articles,
 });
 
 export default reducers;

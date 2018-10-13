@@ -1,6 +1,7 @@
 import React from 'react';
 import Loadable from 'react-loadable';
 import Home from './components/presentation/Home/Home';
+import Article from './components/containers/Article';
 
 const Loading = () => <h2>Loading</h2>;
 
@@ -9,4 +10,4 @@ const Articles = Loadable({
   loading: Loading,
 });
 
-export { Articles, Home };
+export { Articles, Home, Article };
