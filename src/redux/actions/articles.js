@@ -14,23 +14,19 @@ const request = id => (
   }
 );
 
-const success = data => (
+const success = (data, meta) => (
   {
     type: ARTICLES_SUCCESS,
     data,
-    meta: {
-      thunk: true,
-    },
+    meta,
   }
 );
 
-const failure = error => (
+const failure = (error, meta) => (
   {
     type: ARTICLES_FALIURE,
     error,
-    meta: {
-      thunk: true,
-    },
+    meta,
   }
 );
 

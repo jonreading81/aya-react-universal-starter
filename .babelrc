@@ -5,6 +5,8 @@
   ],
    "plugins": [
      "@babel/plugin-syntax-dynamic-import",
+     "@babel/plugin-transform-runtime",
+     "transform-async-to-generator",
      "react-loadable/babel",
      "react-hot-loader/babel",
    ]
