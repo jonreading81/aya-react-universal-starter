@@ -6,15 +6,17 @@ import { request as requestArticle } from '../../redux/actions/articles';
 import { ARTICLES_REQUEST } from '../../redux/types/articles';
 
 class ArticleContainer extends Component {
-  static preloadData(store) {
-    return store.dispatch(requestArticle());
+  /* eslint-disable */
+  static preloadData(store, { id }) {
+    // return store.dispatch(requestArticle(id));
   }
 
-
   componentDidMount() {
-    const { requestArticle, name } = this.props;
+    console.log(this.props);
+    const { requestArticle, name, match } = this.props;
+    const { id } = match.params;
     if (name === '') {
-      requestArticle();
+      requestArticle(id);
     }
   }
 
@@ -27,12 +29,14 @@ class ArticleContainer extends Component {
   }
 
   render() {
-    const { name } = this.props;
+    const { name, id } = this.props;
 
     return (
       <div>
         <h2>Article</h2>
-        <div>{name}</div>
+        <div>
+          <p>{`${id} ${name}`}</p>
+        </div>
         {this.loading()}
       </div>
     );
@@ -47,17 +51,17 @@ ArticleContainer.propTypes = {
 
 ArticleContainer.defaultProps = {
   name: '',
+  id: ''
 };
 
-const mapStateToProps = (state) => {
-  const { name } = state.articles;
-  return {
-    name,
+const mapStateToProps = state => (
+  {
+    ...state.articles,
     loading: pending(state, ARTICLES_REQUEST),
     error: rejected(state, ARTICLES_REQUEST),
     success: fulfilled(state, ARTICLES_REQUEST),
-  };
-};
+  }
+);
 
 export default connect(
   mapStateToProps,

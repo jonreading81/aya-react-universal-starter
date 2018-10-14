@@ -8,10 +8,11 @@ import {
 const delay = ms => new Promise(res => setTimeout(res, ms));
 
 function* requestArticle(action) {
-  const { meta } = action;
+  const { meta, id } = action;
   try {
     const data = {
       name: 'Danny kins',
+      id,
     };
     yield delay(1000);
     yield put(successAction(data, meta));

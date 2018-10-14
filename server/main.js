@@ -28,9 +28,12 @@ const getAppContent = (store, url, loadableCaptureReport) => (
 
 const preloadDataForRoute = (store, routes, url) => {
   const branch = matchRoutes(routes, url);
-  const promises = branch.map(({ route }) => {
+  const promises = branch.map(({ route, match }) => {
     const preloadData = route.component.preloadData;
-    return preloadData instanceof Function ? preloadData(store) : Promise.resolve(null);
+    if (preloadData instanceof Function) {
+      return preloadData(store, match.params);
+    }
+    return Promise.resolve(null);
   });
 
   return promises;

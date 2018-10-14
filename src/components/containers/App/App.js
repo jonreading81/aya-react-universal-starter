@@ -12,7 +12,7 @@ const App = (props) => {
       <ul>
         <li><NavLink to="/">Home</NavLink></li>
         <li><NavLink to="/articles">Articles</NavLink></li>
-        <li><NavLink to="/article">article</NavLink></li>
+        <li><NavLink to="/article/2">article</NavLink></li>
       </ul>
       {renderRoutes(route.routes)}
     </div>
