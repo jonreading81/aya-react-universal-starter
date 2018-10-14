@@ -6,13 +6,11 @@ import { request as requestArticle } from '../../redux/actions/articles';
 import { ARTICLES_REQUEST } from '../../redux/types/articles';
 
 class ArticleContainer extends Component {
-  /* eslint-disable */
   static preloadData(store, { id }) {
-    // return store.dispatch(requestArticle(id));
+    return store.dispatch(requestArticle(id));
   }
 
   componentDidMount() {
-    console.log(this.props);
     const { requestArticle, name, match } = this.props;
     const { id } = match.params;
     if (name === '') {
@@ -45,13 +43,14 @@ class ArticleContainer extends Component {
 
 ArticleContainer.propTypes = {
   name: PropTypes.string,
+  id: PropTypes.string,
   loading: PropTypes.bool.isRequired,
   requestArticle: PropTypes.func.isRequired,
 };
 
 ArticleContainer.defaultProps = {
   name: '',
-  id: ''
+  id: '',
 };
 
 const mapStateToProps = state => (
