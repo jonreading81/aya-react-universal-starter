@@ -14,7 +14,7 @@ function* requestArticle(action) {
       name: 'Danny kins',
       id,
     };
-    yield delay(1000);
+    yield delay(1);
     yield put(successAction(data, meta));
   } catch (error) {
     yield put(errorAction(error, meta));

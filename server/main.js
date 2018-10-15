@@ -63,7 +63,7 @@ export default function startServer({ chunks }) {
           serialisedState={serialize(store.getState())}
         />,
       );
-      res.send(htmlContent);
+      res.send(`<!DOCTYPE html>${htmlContent}`);
     }).catch((err) => {
       res.send(err);
     });
