@@ -8,6 +8,7 @@ import { renderRoutes, matchRoutes } from 'react-router-config';
 import path from 'path';
 import serialize from 'serialize-javascript';
 import { getBundles } from 'react-loadable/webpack';
+import compression from 'compression';
 import configureStore from '../src/redux/configureStore';
 import stats from '../build/static/react-loadable.json';
 import Html from './Html';
@@ -41,6 +42,7 @@ const preloadDataForRoute = (store, routes, url) => {
 
 export default function startServer({ chunks }) {
   const app = express();
+  app.use(compression());
   const assets = chunks();
   app.use(express.static(path.resolve('./build/static')));
   app.get('*', (req, res) => {
