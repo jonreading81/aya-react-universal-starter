@@ -27,6 +27,5 @@ function* watchRequestArticle() {
 
 export {
   requestArticle,
-  watchRequestArticle
-}
-export default watchRequestArticle;
+  watchRequestArticle,
+};
