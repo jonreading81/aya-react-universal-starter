@@ -25,4 +25,8 @@ function* watchRequestArticle() {
   yield takeEvery(ARTICLES_REQUEST, requestArticle);
 }
 
+export {
+  requestArticle,
+  watchRequestArticle
+}
 export default watchRequestArticle;

@@ -9,5 +9,10 @@
      "transform-async-to-generator",
      "react-loadable/babel",
      "react-hot-loader/babel",
-   ]
+   ],
+   "env": {
+    "test": {
+      "plugins": ["dynamic-import-node"]
+    }
+  }
 }
