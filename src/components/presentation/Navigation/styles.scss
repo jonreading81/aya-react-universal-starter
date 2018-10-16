@@ -1,0 +1,25 @@
+$media-large: "(min-width: 640px)";
+
+.navBar {
+  display:none;
+  @media #{$media-large} {
+      display:flex;
+  }
+  font-size: 20px;
+  a {
+    margin: 20px;
+  }
+}
+
+.isOpen {
+  display: flex;
+}
+
+.toggle{
+  @media #{$media-large} {
+    display: none;
+  }
+}
+.isSelected{
+  color:red;
+}

@@ -6,6 +6,6 @@ import ExampleBox from './ExampleBox';
 describe('Example box', () => {
   it('should contain the correct text', () => {
     const wrapper = shallow(<ExampleBox />);
-    expect(wrapper.text()).toBe('Example Box');
+    expect(wrapper.text()).toBe('Example Box 1');
   });
 });

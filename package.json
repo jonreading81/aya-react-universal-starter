@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "test": "jest --watch",
+    "test": "jest --watch --verbose",
     "start": "node ./server/start",
     "clean": "rimraf build && mkdirp ./build && mkdirp ./build/static",
     "dev": "npm-run-all --parallel dev:*",
