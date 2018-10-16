@@ -1,3 +1,5 @@
+import { put, takeEvery } from 'redux-saga/effects';
+
 import {
   requestArticle,
   watchRequestArticle
@@ -6,10 +8,9 @@ import {
 import {
   success as successAction,
   failure as errorAction,
-} from '../actions/articles';
+} from '../modules/articles/actions';
 
-import { put, takeEvery } from 'redux-saga/effects';
-import { ARTICLES_REQUEST } from '../types/articles';
+import { ARTICLES_REQUEST } from '../modules/articles/types';
 
 describe('watchRequestArticle saga', () => {
   it('should take every ARTICLE_REQUEST action', () => {

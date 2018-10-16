@@ -2,7 +2,7 @@ import {
   ARTICLES_REQUEST,
   ARTICLES_SUCCESS,
   ARTICLES_FALIURE,
-} from '../types/articles';
+} from './types';
 
 const request = id => (
   {

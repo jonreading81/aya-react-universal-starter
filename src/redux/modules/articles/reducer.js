@@ -1,4 +1,4 @@
-import { ARTICLES_SUCCESS } from '../types/articles';
+import { ARTICLES_SUCCESS } from './types';
 
 export default (state = {}, action) => {
   const { data } = action;

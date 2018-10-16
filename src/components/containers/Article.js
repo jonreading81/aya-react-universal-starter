@@ -2,8 +2,8 @@ import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
 import { pending, rejected, fulfilled } from 'redux-saga-thunk';
-import { request as requestArticle } from '../../redux/actions/articles';
-import { ARTICLES_REQUEST } from '../../redux/types/articles';
+import { request as requestArticle } from '../../redux/modules/articles/actions';
+import { ARTICLES_REQUEST } from '../../redux/modules/articles/types';
 
 class ArticleContainer extends Component {
   static preloadData(store, { id }) {

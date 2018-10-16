@@ -1,9 +1,9 @@
 import { put, takeEvery } from 'redux-saga/effects';
-import { ARTICLES_REQUEST } from '../types/articles';
+import { ARTICLES_REQUEST } from '../modules/articles/types';
 import {
   success as successAction,
   failure as errorAction,
-} from '../actions/articles';
+} from '../modules/articles/actions';
 
 const delay = ms => new Promise(res => setTimeout(res, ms));
 

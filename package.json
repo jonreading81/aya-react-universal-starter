@@ -13,10 +13,11 @@
     "build": "npm-run-all clean build:*",
     "build:client": "webpack -p --config webpack/webpack.config.client.prod.babel.js",
     "build:server": "webpack -p --config ./webpack/webpack.config.server.babel.js --colors --display-error-details",
-    "analyse-bundle": "NODE_ENV=analyse webpack  -p --config webpack/webpack.config.client.prod.babel.js"
+    "analyse-bundle": "NODE_ENV=analyse webpack  -p --config webpack/webpack.config.client.prod.babel.js",
+    "storybook": "start-storybook -p 9001 -c ./storybook"
   },
   "engines": {
-    "node": "6.14.4"
+    "node": "8.12.0"
   },
   "keywords": [],
   "author": "",
@@ -45,15 +46,17 @@
     "rimraf": "^2.6.2",
     "sass-loader": "^7.1.0",
     "style-loader": "^0.23.0",
-    "webpack": "^4.19.1",
-    "webpack-cli": "^2.0.13",
+    "webpack": "^4.20.2",
+    "webpack-cli": "^3.1.2",
     "webpack-dev-server": "^3.1.9"
   },
   "dependencies": {
     "@babel/core": "^7.1.2",
     "@babel/plugin-syntax-dynamic-import": "^7.0.0",
     "@babel/plugin-transform-runtime": "^7.1.0",
+    "@babel/polyfill": "^7.0.0",
     "@babel/runtime": "^7.1.2",
+    "@storybook/react": "^4.0.0-rc.0",
     "babel-core": "^7.0.0-bridge.0",
     "babel-plugin-dynamic-import-node": "^2.2.0",
     "babel-plugin-transform-async-to-generator": "^6.24.1",
@@ -76,6 +79,7 @@
     "redux-saga": "^0.16.2",
     "redux-saga-thunk": "^0.7.2",
     "serialize-javascript": "^1.5.0",
+    "storybook": "^1.0.0",
     "universal-webpack": "^0.6.6",
     "webpack-bundle-analyzer": "^3.0.2"
   }
