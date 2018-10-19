@@ -9,7 +9,7 @@
     "dev": "npm-run-all --parallel dev:*",
     "dev:client": "webpack-dev-server --port 9000 --inline  --hot --config webpack/webpack.config.client.dev.babel.js",
     "dev:server-build": "webpack -d --watch --config ./webpack/webpack.config.server.babel.js --colors --display-error-details",
-    "dev:server-start": " nodemon ./server/start --watch ./build/server",
+    "dev:server-start": "nodemon ./server/start --watch ./build/server",
     "build": "npm-run-all clean build:*",
     "build:client": "webpack -p --config webpack/webpack.config.client.prod.babel.js",
     "build:server": "webpack -p --config ./webpack/webpack.config.server.babel.js --colors --display-error-details",

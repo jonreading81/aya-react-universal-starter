@@ -9,10 +9,11 @@ if (process.env.NODE_ENV  ===  'analyse') {
   plugins.push(new BundleAnalyzerPlugin());
 }
 
+
 const config = {
   entry: {
-    client: ['./src/index.js'],
-    vendor: ['react', 'react-dom', 'redux']
+    main: './src/index.js',
+    vendor: ['react', 'react-dom', 'redux'],
   },
   output: {
     path: path.resolve(projectDir, 'build/static'),
@@ -38,24 +39,6 @@ const config = {
          exclude: /node_modules/,
          use: ['babel-loader', 'eslint-loader']
        },
-      {
-        test: /\.css$/,
-        use: [
-          {
-            loader: "style-loader"
-          },
-          {
-            loader: "css-loader",
-            options: {
-              modules: true,
-              importLoaders: 1,
-              localIdentName: "[name]_[local]_[hash:base64]",
-              sourceMap: true,
-              minimize: true
-            }
-          }
-        ]
-      },
       {
         test: /\.scss$/,
         use: [

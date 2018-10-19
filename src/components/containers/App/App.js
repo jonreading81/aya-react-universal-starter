@@ -10,7 +10,7 @@ import '../../../scss/main.scss';
 const items = [
   { title: 'Home', url: '/' },
   { title: 'Articles', url: '/articles' },
-  { title: 'Article', url: '/article' },
+  { title: 'Article', url: '/article/2' },
 ];
 
 const App = (props) => {
