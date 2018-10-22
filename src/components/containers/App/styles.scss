@@ -1,0 +1,32 @@
+
+.container {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 10px;
+  grid-template-rows: repeat(3, 1fr);
+  grid-template-areas:
+    "nav header header header"
+    "main main sidebar sidebar"
+    "footer footer footer footer"
+}
+
+.nav {
+  grid-area: nav;
+}
+.header {
+  background:green;
+  grid-area: header;
+}
+.main {
+  background: red;
+  grid-area: main;
+}
+.sidebar {
+  background: blue;
+  grid-area: sidebar;
+}
+.footer {
+  background: purple;
+  grid-area: footer;
+}

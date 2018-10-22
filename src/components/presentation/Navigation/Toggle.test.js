@@ -7,6 +7,12 @@ describe('Nav Toggle', () => {
     const wrapper = shallow(<Toggle />);
     expect(wrapper.hasClass('toggle')).toBeTruthy();
   });
+
+  it('should use className specified', () => {
+    const wrapper = shallow(<Toggle className="test" />);
+    expect(wrapper.hasClass('test')).toBeTruthy();
+  });
+
   it('should use the text provided', () => {
     const text = 'test';
     const wrapper = shallow(<Toggle text={text} />);

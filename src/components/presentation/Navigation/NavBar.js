@@ -4,10 +4,21 @@ import { NavLink } from 'react-router-dom';
 import styles from './styles.scss';
 
 const NavBar = (props) => {
-  const { url, isOpen, onChange } = props;
+  const {
+    url,
+    isOpen,
+    onChange,
+    className,
+  } = props;
   let { items } = props;
   const seletectedURL = url;
-  const className = isOpen ? styles.isOpen : '';
+  const classNames = [styles.navBar];
+  if (className) {
+    classNames.push(className);
+  }
+  if (isOpen) {
+    classNames.push(styles.isOpen);
+  }
 
   items = items.map(({ title, url }) => {
     const className = seletectedURL === url ? styles.isSelected : '';
@@ -24,7 +35,7 @@ const NavBar = (props) => {
   });
 
   return (
-    <nav className={`${styles.navBar} ${className}`}>{items}</nav>
+    <nav className={classNames.join(' ')}>{items}</nav>
   );
 };
 

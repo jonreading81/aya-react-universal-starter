@@ -63,4 +63,9 @@ describe('NavBar', () => {
     wrapper.find('NavLink').first().simulate('click');
     expect(onChange.mock.calls[0][0]).toBe('url-1');
   });
+
+  it('should be able to set additonal className', () => {
+    const wrapper = shallow(<NavBar className="test" />);
+    expect(wrapper.hasClass('test')).toBeTruthy();
+  });
 });

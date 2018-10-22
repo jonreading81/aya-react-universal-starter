@@ -14,6 +14,7 @@ import stats from '../build/static/react-loadable.json';
 import Html from './Html';
 import routes from '../src/routes';
 import appConfig from '../config';
+import api from './api';
 
 const getAppContent = (store, url, loadableCaptureReport) => (
   renderToString(
@@ -45,6 +46,8 @@ export default function startServer({ chunks }) {
   app.use(compression());
   const assets = chunks();
   app.use(express.static(path.resolve('./build/static')));
+  app.use('/api', api);
+
   app.get('*', (req, res) => {
     const store = configureStore();
     const preloadData = preloadDataForRoute(store, routes, req.url);

@@ -4,6 +4,10 @@
 		"host": "localhost",
 		"port": 4000
 	},
+	"api":
+	{
+		"url": "http://www.calloftheforest.com/api"
+	},
 	"webpack":
 	{
 		"devserver":
