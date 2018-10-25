@@ -1,2836 +1,2916 @@
 {
-  "./Navigation/NavBar": [
+  "!!../../../../node_modules/css-loader/index.js??ref--5-1!../../../../node_modules/sass-loader/lib/loader.js!./styles.scss": [
     {
-      "id": "./src/components/presentation/Navigation/NavBar.js",
-      "name": "./src/components/presentation/Navigation/NavBar.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
-      "id": "./src/components/presentation/Navigation/NavBar.js",
-      "name": "./src/components/presentation/Navigation/NavBar.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
+    },
+    {
+      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
+    },
+    {
+      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
+    },
+    {
+      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
+    },
+    {
+      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
+      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "undefined": [
     {
       "id": 0,
       "name": null,
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./node_modules/webpack/hot sync ^\\.\\/log$",
       "name": "./node_modules/webpack/hot sync ^\\.\\/log$",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": 0,
       "name": null,
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     },
     {
       "id": "./node_modules/webpack/hot sync ^\\.\\/log$",
       "name": "./node_modules/webpack/hot sync ^\\.\\/log$",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     },
     {
       "id": 1,
       "name": null,
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     },
     {
       "id": "./node_modules/webpack/hot sync ^\\.\\/log$",
       "name": "./node_modules/webpack/hot sync ^\\.\\/log$",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./src/index.js": [
     {
       "id": "./src/index.js",
       "name": "./src/index.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/index.js",
       "name": "./src/index.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./routes": [
     {
       "id": "./src/routes.js",
       "name": "./src/routes.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/routes.js",
       "name": "./src/routes.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./components/presentation/Home/Home": [
     {
       "id": "./src/components/presentation/Home/Home.js",
       "name": "./src/components/presentation/Home/Home.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/Home/Home.js",
       "name": "./src/components/presentation/Home/Home.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./components/containers/Article": [
     {
       "id": "./src/components/containers/Article.js",
       "name": "./src/components/containers/Article.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/containers/Article.js",
       "name": "./src/components/containers/Article.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "../../redux/modules/articles/actions": [
     {
       "id": "./src/redux/modules/articles/actions.js",
       "name": "./src/redux/modules/articles/actions.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/modules/articles/actions.js",
       "name": "./src/redux/modules/articles/actions.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "../../redux/modules/articles/types": [
     {
       "id": "./src/redux/modules/articles/types.js",
       "name": "./src/redux/modules/articles/types.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/modules/articles/types.js",
       "name": "./src/redux/modules/articles/types.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./components/containers/App/App": [
     {
       "id": "./src/components/containers/App/App.js",
       "name": "./src/components/containers/App/App.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/containers/App/App.js",
       "name": "./src/components/containers/App/App.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "../../presentation": [
     {
       "id": "./src/components/presentation/index.js",
       "name": "./src/components/presentation/index.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/index.js",
       "name": "./src/components/presentation/index.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./ExampleBox/ExampleBox": [
     {
       "id": "./src/components/presentation/ExampleBox/ExampleBox.js",
       "name": "./src/components/presentation/ExampleBox/ExampleBox.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/ExampleBox/ExampleBox.js",
       "name": "./src/components/presentation/ExampleBox/ExampleBox.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./styles.scss": [
     {
       "id": "./src/components/presentation/ExampleBox/styles.scss",
       "name": "./src/components/presentation/ExampleBox/styles.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/Navigation/styles.scss",
       "name": "./src/components/presentation/Navigation/styles.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/containers/App/styles.scss",
       "name": "./src/components/containers/App/styles.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/ExampleBox/styles.scss",
       "name": "./src/components/presentation/ExampleBox/styles.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     },
     {
       "id": "./src/components/presentation/Navigation/styles.scss",
       "name": "./src/components/presentation/Navigation/styles.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     },
     {
       "id": "./src/components/containers/App/styles.scss",
       "name": "./src/components/containers/App/styles.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
-    }
-  ],
-  "!!../../../../node_modules/css-loader/index.js??ref--5-1!../../../../node_modules/sass-loader/lib/loader.js!./styles.scss": [
-    {
-      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
-      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
-    },
-    {
-      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
-      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
-    },
-    {
-      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
-      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
-    },
-    {
-      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
-      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/ExampleBox/styles.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
-    },
-    {
-      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
-      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/presentation/Navigation/styles.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
-    },
-    {
-      "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
-      "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/components/containers/App/styles.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "!!../../node_modules/css-loader/index.js??ref--5-1!../../node_modules/sass-loader/lib/loader.js!./main.scss": [
     {
       "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/scss/main.scss",
       "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/scss/main.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/scss/main.scss",
       "name": "./node_modules/css-loader/index.js?!./node_modules/sass-loader/lib/loader.js!./src/scss/main.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./components/presentation/Articles/Articles": [
     {
       "id": "./src/components/presentation/Articles/Articles.js",
       "name": "./src/components/presentation/Articles/Articles.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/Articles/Articles.js",
       "name": "./src/components/presentation/Articles/Articles.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
+    }
+  ],
+  "./Navigation/NavBar": [
+    {
+      "id": "./src/components/presentation/Navigation/NavBar.js",
+      "name": "./src/components/presentation/Navigation/NavBar.js",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
+    },
+    {
+      "id": "./src/components/presentation/Navigation/NavBar.js",
+      "name": "./src/components/presentation/Navigation/NavBar.js",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./Navigation/Toggle": [
     {
       "id": "./src/components/presentation/Navigation/Toggle.js",
       "name": "./src/components/presentation/Navigation/Toggle.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/components/presentation/Navigation/Toggle.js",
       "name": "./src/components/presentation/Navigation/Toggle.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "../../../redux/modules/navigation/actions": [
     {
       "id": "./src/redux/modules/navigation/actions.js",
       "name": "./src/redux/modules/navigation/actions.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/modules/navigation/actions.js",
       "name": "./src/redux/modules/navigation/actions.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./types": [
     {
       "id": "./src/redux/modules/navigation/types.js",
       "name": "./src/redux/modules/navigation/types.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/modules/navigation/types.js",
       "name": "./src/redux/modules/navigation/types.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "../../../scss/main.scss": [
     {
       "id": "./src/scss/main.scss",
       "name": "./src/scss/main.scss",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/scss/main.scss",
       "name": "./src/scss/main.scss",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
+    }
+  ],
+  "./favicon.ico": [
+    {
+      "id": "./src/components/containers/App/favicon.ico",
+      "name": "./src/components/containers/App/favicon.ico",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
+    },
+    {
+      "id": "./src/components/containers/App/favicon.ico",
+      "name": "./src/components/containers/App/favicon.ico",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./redux/configureStore": [
     {
       "id": "./src/redux/configureStore.js",
       "name": "./src/redux/configureStore.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/configureStore.js",
       "name": "./src/redux/configureStore.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./reducers": [
     {
       "id": "./src/redux/reducers.js",
       "name": "./src/redux/reducers.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/reducers.js",
       "name": "./src/redux/reducers.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./modules/articles/reducer": [
     {
       "id": "./src/redux/modules/articles/reducer.js",
       "name": "./src/redux/modules/articles/reducer.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/modules/articles/reducer.js",
       "name": "./src/redux/modules/articles/reducer.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./modules/navigation/reducer": [
     {
       "id": "./src/redux/modules/navigation/reducer.js",
       "name": "./src/redux/modules/navigation/reducer.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/modules/navigation/reducer.js",
       "name": "./src/redux/modules/navigation/reducer.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./sagas": [
     {
       "id": "./src/redux/sagas/index.js",
       "name": "./src/redux/sagas/index.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/sagas/index.js",
       "name": "./src/redux/sagas/index.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./articles": [
     {
       "id": "./src/redux/sagas/articles.js",
       "name": "./src/redux/sagas/articles.js",
-      "file": "main.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/main.95d0458f08f6ec456627.js"
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
       "id": "./src/redux/sagas/articles.js",
       "name": "./src/redux/sagas/articles.js",
-      "file": "main.237aa73ee0b3e1df1b63.hot-update.js",
-      "publicPath": "http://localhost:9000/main.237aa73ee0b3e1df1b63.hot-update.js"
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
-  "./_assocIndexOf": [
+  "../../services/apiClient": [
     {
-      "id": "./node_modules/lodash/_assocIndexOf.js",
-      "name": "./node_modules/lodash/_assocIndexOf.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "url": [
-    {
-      "id": "./node_modules/url/url.js",
-      "name": "./node_modules/url/url.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "punycode": [
-    {
-      "id": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
-      "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./../../../webpack/buildin/module.js": [
-    {
-      "id": "./node_modules/webpack/buildin/module.js",
-      "name": "./node_modules/webpack/buildin/module.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./../../webpack/buildin/global.js": [
-    {
-      "id": "./node_modules/webpack/buildin/global.js",
-      "name": "./node_modules/webpack/buildin/global.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./util": [
-    {
-      "id": "./node_modules/url/util.js",
-      "name": "./node_modules/url/util.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "querystring": [
-    {
-      "id": "./node_modules/querystring-es3/index.js",
-      "name": "./node_modules/querystring-es3/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./decode": [
-    {
-      "id": "./node_modules/querystring-es3/decode.js",
-      "name": "./node_modules/querystring-es3/decode.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./encode": [
-    {
-      "id": "./node_modules/querystring-es3/encode.js",
-      "name": "./node_modules/querystring-es3/encode.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "strip-ansi": [
-    {
-      "id": "./node_modules/strip-ansi/index.js",
-      "name": "./node_modules/strip-ansi/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "ansi-regex": [
-    {
-      "id": "./node_modules/ansi-regex/index.js",
-      "name": "./node_modules/ansi-regex/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "loglevel": [
-    {
-      "id": "./node_modules/loglevel/lib/loglevel.js",
-      "name": "./node_modules/loglevel/lib/loglevel.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./socket": [
-    {
-      "id": "./node_modules/webpack-dev-server/client/socket.js",
-      "name": "./node_modules/webpack-dev-server/client/socket.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "sockjs-client/dist/sockjs": [
-    {
-      "id": "./node_modules/sockjs-client/dist/sockjs.js",
-      "name": "./node_modules/sockjs-client/dist/sockjs.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./overlay": [
-    {
-      "id": "./node_modules/webpack-dev-server/client/overlay.js",
-      "name": "./node_modules/webpack-dev-server/client/overlay.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "ansi-html": [
-    {
-      "id": "./node_modules/ansi-html/index.js",
-      "name": "./node_modules/ansi-html/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "html-entities": [
-    {
-      "id": "./node_modules/html-entities/index.js",
-      "name": "./node_modules/html-entities/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./lib/xml-entities.js": [
-    {
-      "id": "./node_modules/html-entities/lib/xml-entities.js",
-      "name": "./node_modules/html-entities/lib/xml-entities.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./lib/html4-entities.js": [
-    {
-      "id": "./node_modules/html-entities/lib/html4-entities.js",
-      "name": "./node_modules/html-entities/lib/html4-entities.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./lib/html5-entities.js": [
-    {
-      "id": "./node_modules/html-entities/lib/html5-entities.js",
-      "name": "./node_modules/html-entities/lib/html5-entities.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./log": [
-    {
-      "id": "./node_modules/webpack/hot/log.js",
-      "name": "./node_modules/webpack/hot/log.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "webpack/hot/emitter": [
-    {
-      "id": "./node_modules/webpack/hot/emitter.js",
-      "name": "./node_modules/webpack/hot/emitter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "events": [
-    {
-      "id": "./node_modules/node-libs-browser/node_modules/events/events.js",
-      "name": "./node_modules/node-libs-browser/node_modules/events/events.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "/Users/jonathanreading/Development/aya/node_modules/webpack/hot/dev-server.js": [
-    {
-      "id": "./node_modules/webpack/hot/dev-server.js",
-      "name": "./node_modules/webpack/hot/dev-server.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./log-apply-result": [
-    {
-      "id": "./node_modules/webpack/hot/log-apply-result.js",
-      "name": "./node_modules/webpack/hot/log-apply-result.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react": [
-    {
-      "id": "./node_modules/react/index.js",
-      "name": "./node_modules/react/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./cjs/react.development.js": [
-    {
-      "id": "./node_modules/react/cjs/react.development.js",
-      "name": "./node_modules/react/cjs/react.development.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "object-assign": [
-    {
-      "id": "./node_modules/object-assign/index.js",
-      "name": "./node_modules/object-assign/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "prop-types/checkPropTypes": [
-    {
-      "id": "./node_modules/prop-types/checkPropTypes.js",
-      "name": "./node_modules/prop-types/checkPropTypes.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./lib/ReactPropTypesSecret": [
-    {
-      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-dom": [
-    {
-      "id": "./node_modules/react-dom/index.js",
-      "name": "./node_modules/react-dom/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./cjs/react-dom.development.js": [
-    {
-      "id": "./node_modules/react-dom/cjs/react-dom.development.js",
-      "name": "./node_modules/react-dom/cjs/react-dom.development.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "schedule": [
-    {
-      "id": "./node_modules/schedule/index.js",
-      "name": "./node_modules/schedule/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./cjs/schedule.development.js": [
-    {
-      "id": "./node_modules/schedule/cjs/schedule.development.js",
-      "name": "./node_modules/schedule/cjs/schedule.development.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "schedule/tracing": [
-    {
-      "id": "./node_modules/schedule/tracing.js",
-      "name": "./node_modules/schedule/tracing.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./cjs/schedule-tracing.development.js": [
-    {
-      "id": "./node_modules/schedule/cjs/schedule-tracing.development.js",
-      "name": "./node_modules/schedule/cjs/schedule-tracing.development.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "redux": [
-    {
-      "id": "./node_modules/redux/es/redux.js",
-      "name": "./node_modules/redux/es/redux.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "symbol-observable": [
-    {
-      "id": "./node_modules/symbol-observable/es/index.js",
-      "name": "./node_modules/symbol-observable/es/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./../node_modules/webpack/buildin/harmony-module.js": [
-    {
-      "id": "./node_modules/webpack/buildin/harmony-module.js",
-      "name": "./node_modules/webpack/buildin/harmony-module.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./ponyfill.js": [
-    {
-      "id": "./node_modules/symbol-observable/es/ponyfill.js",
-      "name": "./node_modules/symbol-observable/es/ponyfill.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-hot-loader": [
-    {
-      "id": "./node_modules/react-hot-loader/index.js",
-      "name": "./node_modules/react-hot-loader/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./dist/react-hot-loader.production.min.js": [
-    {
-      "id": "./node_modules/react-hot-loader/dist/react-hot-loader.production.min.js",
-      "name": "./node_modules/react-hot-loader/dist/react-hot-loader.production.min.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./dist/react-hot-loader.development.js": [
-    {
-      "id": "./node_modules/react-hot-loader/dist/react-hot-loader.development.js",
-      "name": "./node_modules/react-hot-loader/dist/react-hot-loader.development.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "shallowequal": [
-    {
-      "id": "./node_modules/shallowequal/index.js",
-      "name": "./node_modules/shallowequal/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "fast-levenshtein": [
-    {
-      "id": "./node_modules/fast-levenshtein/levenshtein.js",
-      "name": "./node_modules/fast-levenshtein/levenshtein.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "!!webpack amd define": [
-    {
-      "id": "./node_modules/webpack/buildin/amd-define.js",
-      "name": "./node_modules/webpack/buildin/amd-define.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "!!webpack amd options": [
-    {
-      "id": "./node_modules/webpack/buildin/amd-options.js",
-      "name": "./node_modules/webpack/buildin/amd-options.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "prop-types": [
-    {
-      "id": "./node_modules/prop-types/index.js",
-      "name": "./node_modules/prop-types/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./factoryWithTypeCheckers": [
-    {
-      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
-      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-lifecycles-compat": [
-    {
-      "id": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
-      "name": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "hoist-non-react-statics": [
-    {
-      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-redux": [
-    {
-      "id": "./node_modules/react-redux/es/index.js",
-      "name": "./node_modules/react-redux/es/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./components/Provider": [
-    {
-      "id": "./node_modules/react-redux/es/components/Provider.js",
-      "name": "./node_modules/react-redux/es/components/Provider.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "../utils/PropTypes": [
-    {
-      "id": "./node_modules/react-redux/es/utils/PropTypes.js",
-      "name": "./node_modules/react-redux/es/utils/PropTypes.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "../utils/warning": [
-    {
-      "id": "./node_modules/react-redux/es/utils/warning.js",
-      "name": "./node_modules/react-redux/es/utils/warning.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./components/connectAdvanced": [
-    {
-      "id": "./node_modules/react-redux/es/components/connectAdvanced.js",
-      "name": "./node_modules/react-redux/es/components/connectAdvanced.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "invariant": [
-    {
-      "id": "./node_modules/invariant/browser.js",
-      "name": "./node_modules/invariant/browser.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "../utils/Subscription": [
-    {
-      "id": "./node_modules/react-redux/es/utils/Subscription.js",
-      "name": "./node_modules/react-redux/es/utils/Subscription.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./connect/connect": [
-    {
-      "id": "./node_modules/react-redux/es/connect/connect.js",
-      "name": "./node_modules/react-redux/es/connect/connect.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "../utils/shallowEqual": [
-    {
-      "id": "./node_modules/react-redux/es/utils/shallowEqual.js",
-      "name": "./node_modules/react-redux/es/utils/shallowEqual.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./mapDispatchToProps": [
-    {
-      "id": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
-      "name": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./wrapMapToProps": [
-    {
-      "id": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
-      "name": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "../utils/verifyPlainObject": [
-    {
-      "id": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
-      "name": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "lodash-es/isPlainObject": [
-    {
-      "id": "./node_modules/lodash-es/isPlainObject.js",
-      "name": "./node_modules/lodash-es/isPlainObject.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_baseGetTag.js": [
-    {
-      "id": "./node_modules/lodash-es/_baseGetTag.js",
-      "name": "./node_modules/lodash-es/_baseGetTag.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_Symbol.js": [
-    {
-      "id": "./node_modules/lodash-es/_Symbol.js",
-      "name": "./node_modules/lodash-es/_Symbol.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_root.js": [
-    {
-      "id": "./node_modules/lodash-es/_root.js",
-      "name": "./node_modules/lodash-es/_root.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_freeGlobal.js": [
-    {
-      "id": "./node_modules/lodash-es/_freeGlobal.js",
-      "name": "./node_modules/lodash-es/_freeGlobal.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_getRawTag.js": [
-    {
-      "id": "./node_modules/lodash-es/_getRawTag.js",
-      "name": "./node_modules/lodash-es/_getRawTag.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_objectToString.js": [
-    {
-      "id": "./node_modules/lodash-es/_objectToString.js",
-      "name": "./node_modules/lodash-es/_objectToString.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_getPrototype.js": [
-    {
-      "id": "./node_modules/lodash-es/_getPrototype.js",
-      "name": "./node_modules/lodash-es/_getPrototype.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_overArg.js": [
-    {
-      "id": "./node_modules/lodash-es/_overArg.js",
-      "name": "./node_modules/lodash-es/_overArg.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./isObjectLike.js": [
-    {
-      "id": "./node_modules/lodash-es/isObjectLike.js",
-      "name": "./node_modules/lodash-es/isObjectLike.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./mapStateToProps": [
-    {
-      "id": "./node_modules/react-redux/es/connect/mapStateToProps.js",
-      "name": "./node_modules/react-redux/es/connect/mapStateToProps.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./mergeProps": [
-    {
-      "id": "./node_modules/react-redux/es/connect/mergeProps.js",
-      "name": "./node_modules/react-redux/es/connect/mergeProps.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./selectorFactory": [
-    {
-      "id": "./node_modules/react-redux/es/connect/selectorFactory.js",
-      "name": "./node_modules/react-redux/es/connect/selectorFactory.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./verifySubselectors": [
-    {
-      "id": "./node_modules/react-redux/es/connect/verifySubselectors.js",
-      "name": "./node_modules/react-redux/es/connect/verifySubselectors.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router-dom": [
-    {
-      "id": "./node_modules/react-router-dom/es/index.js",
-      "name": "./node_modules/react-router-dom/es/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./BrowserRouter": [
-    {
-      "id": "./node_modules/react-router-dom/es/BrowserRouter.js",
-      "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "warning": [
-    {
-      "id": "./node_modules/warning/warning.js",
-      "name": "./node_modules/warning/warning.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "id": "./src/services/apiClient.js",
+      "name": "./src/services/apiClient.js",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
-      "id": "./node_modules/history/node_modules/warning/browser.js",
-      "name": "./node_modules/history/node_modules/warning/browser.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "id": "./src/services/apiClient.js",
+      "name": "./src/services/apiClient.js",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
-  "history": [
+  "../../config": [
     {
-      "id": "./node_modules/history/es/index.js",
-      "name": "./node_modules/history/es/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./createBrowserHistory": [
-    {
-      "id": "./node_modules/history/es/createBrowserHistory.js",
-      "name": "./node_modules/history/es/createBrowserHistory.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./LocationUtils": [
-    {
-      "id": "./node_modules/history/es/LocationUtils.js",
-      "name": "./node_modules/history/es/LocationUtils.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "resolve-pathname": [
-    {
-      "id": "./node_modules/resolve-pathname/index.js",
-      "name": "./node_modules/resolve-pathname/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "value-equal": [
-    {
-      "id": "./node_modules/value-equal/index.js",
-      "name": "./node_modules/value-equal/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./PathUtils": [
-    {
-      "id": "./node_modules/history/es/PathUtils.js",
-      "name": "./node_modules/history/es/PathUtils.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./createTransitionManager": [
-    {
-      "id": "./node_modules/history/es/createTransitionManager.js",
-      "name": "./node_modules/history/es/createTransitionManager.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./DOMUtils": [
-    {
-      "id": "./node_modules/history/es/DOMUtils.js",
-      "name": "./node_modules/history/es/DOMUtils.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./createHashHistory": [
-    {
-      "id": "./node_modules/history/es/createHashHistory.js",
-      "name": "./node_modules/history/es/createHashHistory.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./createMemoryHistory": [
-    {
-      "id": "./node_modules/history/es/createMemoryHistory.js",
-      "name": "./node_modules/history/es/createMemoryHistory.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./Router": [
-    {
-      "id": "./node_modules/react-router-dom/es/Router.js",
-      "name": "./node_modules/react-router-dom/es/Router.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/Router": [
-    {
-      "id": "./node_modules/react-router/es/Router.js",
-      "name": "./node_modules/react-router/es/Router.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./HashRouter": [
-    {
-      "id": "./node_modules/react-router-dom/es/HashRouter.js",
-      "name": "./node_modules/react-router-dom/es/HashRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./Link": [
-    {
-      "id": "./node_modules/react-router-dom/es/Link.js",
-      "name": "./node_modules/react-router-dom/es/Link.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./MemoryRouter": [
-    {
-      "id": "./node_modules/react-router-dom/es/MemoryRouter.js",
-      "name": "./node_modules/react-router-dom/es/MemoryRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/MemoryRouter": [
-    {
-      "id": "./node_modules/react-router/es/MemoryRouter.js",
-      "name": "./node_modules/react-router/es/MemoryRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./NavLink": [
-    {
-      "id": "./node_modules/react-router-dom/es/NavLink.js",
-      "name": "./node_modules/react-router-dom/es/NavLink.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./Route": [
-    {
-      "id": "./node_modules/react-router-dom/es/Route.js",
-      "name": "./node_modules/react-router-dom/es/Route.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/Route": [
-    {
-      "id": "./node_modules/react-router/es/Route.js",
-      "name": "./node_modules/react-router/es/Route.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/matchPath": [
-    {
-      "id": "./node_modules/react-router/es/matchPath.js",
-      "name": "./node_modules/react-router/es/matchPath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "path-to-regexp": [
-    {
-      "id": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "isarray": [
-    {
-      "id": "./node_modules/isarray/index.js",
-      "name": "./node_modules/isarray/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./Prompt": [
-    {
-      "id": "./node_modules/react-router-dom/es/Prompt.js",
-      "name": "./node_modules/react-router-dom/es/Prompt.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/Prompt": [
-    {
-      "id": "./node_modules/react-router/es/Prompt.js",
-      "name": "./node_modules/react-router/es/Prompt.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./Redirect": [
-    {
-      "id": "./node_modules/react-router-dom/es/Redirect.js",
-      "name": "./node_modules/react-router-dom/es/Redirect.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/Redirect": [
-    {
-      "id": "./node_modules/react-router/es/Redirect.js",
-      "name": "./node_modules/react-router/es/Redirect.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/generatePath": [
-    {
-      "id": "./node_modules/react-router/es/generatePath.js",
-      "name": "./node_modules/react-router/es/generatePath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./StaticRouter": [
-    {
-      "id": "./node_modules/react-router-dom/es/StaticRouter.js",
-      "name": "./node_modules/react-router-dom/es/StaticRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/StaticRouter": [
-    {
-      "id": "./node_modules/react-router/es/StaticRouter.js",
-      "name": "./node_modules/react-router/es/StaticRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./Switch": [
-    {
-      "id": "./node_modules/react-router-dom/es/Switch.js",
-      "name": "./node_modules/react-router-dom/es/Switch.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/Switch": [
-    {
-      "id": "./node_modules/react-router/es/Switch.js",
-      "name": "./node_modules/react-router/es/Switch.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./generatePath": [
-    {
-      "id": "./node_modules/react-router-dom/es/generatePath.js",
-      "name": "./node_modules/react-router-dom/es/generatePath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./matchPath": [
-    {
-      "id": "./node_modules/react-router-dom/es/matchPath.js",
-      "name": "./node_modules/react-router-dom/es/matchPath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./withRouter": [
-    {
-      "id": "./node_modules/react-router-dom/es/withRouter.js",
-      "name": "./node_modules/react-router-dom/es/withRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/es/withRouter": [
-    {
-      "id": "./node_modules/react-router/es/withRouter.js",
-      "name": "./node_modules/react-router/es/withRouter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-loadable": [
-    {
-      "id": "./node_modules/react-loadable/lib/index.js",
-      "name": "./node_modules/react-loadable/lib/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router-config": [
-    {
-      "id": "./node_modules/react-router-config/es/index.js",
-      "name": "./node_modules/react-router-config/es/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./matchRoutes": [
-    {
-      "id": "./node_modules/react-router-config/es/matchRoutes.js",
-      "name": "./node_modules/react-router-config/es/matchRoutes.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/matchPath": [
-    {
-      "id": "./node_modules/react-router/matchPath.js",
-      "name": "./node_modules/react-router/matchPath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/Router": [
-    {
-      "id": "./node_modules/react-router/Router.js",
-      "name": "./node_modules/react-router/Router.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./renderRoutes": [
-    {
-      "id": "./node_modules/react-router-config/es/renderRoutes.js",
-      "name": "./node_modules/react-router-config/es/renderRoutes.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/Switch": [
-    {
-      "id": "./node_modules/react-router/Switch.js",
-      "name": "./node_modules/react-router/Switch.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "react-router/Route": [
-    {
-      "id": "./node_modules/react-router/Route.js",
-      "name": "./node_modules/react-router/Route.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "@babel/runtime/helpers/objectSpread": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/objectSpread.js",
-      "name": "./node_modules/@babel/runtime/helpers/objectSpread.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./defineProperty": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/defineProperty.js",
-      "name": "./node_modules/@babel/runtime/helpers/defineProperty.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "@babel/runtime/helpers/classCallCheck": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/classCallCheck.js",
-      "name": "./node_modules/@babel/runtime/helpers/classCallCheck.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "@babel/runtime/helpers/createClass": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/createClass.js",
-      "name": "./node_modules/@babel/runtime/helpers/createClass.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "@babel/runtime/helpers/possibleConstructorReturn": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
-      "name": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "../helpers/typeof": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/typeof.js",
-      "name": "./node_modules/@babel/runtime/helpers/typeof.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./assertThisInitialized": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
-      "name": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "@babel/runtime/helpers/getPrototypeOf": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
-      "name": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "@babel/runtime/helpers/inherits": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
-      "name": "./node_modules/@babel/runtime/helpers/inherits.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./setPrototypeOf": [
-    {
-      "id": "./node_modules/@babel/runtime/helpers/setPrototypeOf.js",
-      "name": "./node_modules/@babel/runtime/helpers/setPrototypeOf.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "redux-saga-thunk": [
-    {
-      "id": "./node_modules/redux-saga-thunk/index.js",
-      "name": "./node_modules/redux-saga-thunk/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./dist": [
-    {
-      "id": "./node_modules/redux-saga-thunk/dist/index.js",
-      "name": "./node_modules/redux-saga-thunk/dist/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./middleware": [
-    {
-      "id": "./node_modules/redux-saga-thunk/dist/middleware.js",
-      "name": "./node_modules/redux-saga-thunk/dist/middleware.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./utils": [
-    {
-      "id": "./node_modules/redux-saga-thunk/dist/utils.js",
-      "name": "./node_modules/redux-saga-thunk/dist/utils.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "id": "./config/index.js",
+      "name": "./config/index.js",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
     },
     {
-      "id": "./node_modules/redux-saga/es/utils.js",
-      "name": "./node_modules/redux-saga/es/utils.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "id": "./config/index.js",
+      "name": "./config/index.js",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
-  "./actions": [
+  "./dev.json": [
     {
-      "id": "./node_modules/redux-saga-thunk/dist/actions.js",
-      "name": "./node_modules/redux-saga-thunk/dist/actions.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./reducer": [
+      "id": "./config/dev.json",
+      "name": "./config/dev.json",
+      "file": "main.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/main.9e6de45e06438593595b.js"
+    },
     {
-      "id": "./node_modules/redux-saga-thunk/dist/reducer.js",
-      "name": "./node_modules/redux-saga-thunk/dist/reducer.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./selectors": [
-    {
-      "id": "./node_modules/redux-saga-thunk/dist/selectors.js",
-      "name": "./node_modules/redux-saga-thunk/dist/selectors.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "lodash/find": [
-    {
-      "id": "./node_modules/lodash/find.js",
-      "name": "./node_modules/lodash/find.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_createFind": [
-    {
-      "id": "./node_modules/lodash/_createFind.js",
-      "name": "./node_modules/lodash/_createFind.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_baseIteratee": [
-    {
-      "id": "./node_modules/lodash/_baseIteratee.js",
-      "name": "./node_modules/lodash/_baseIteratee.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_baseMatches": [
-    {
-      "id": "./node_modules/lodash/_baseMatches.js",
-      "name": "./node_modules/lodash/_baseMatches.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_baseIsMatch": [
-    {
-      "id": "./node_modules/lodash/_baseIsMatch.js",
-      "name": "./node_modules/lodash/_baseIsMatch.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_Stack": [
-    {
-      "id": "./node_modules/lodash/_Stack.js",
-      "name": "./node_modules/lodash/_Stack.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_ListCache": [
-    {
-      "id": "./node_modules/lodash/_ListCache.js",
-      "name": "./node_modules/lodash/_ListCache.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_listCacheClear": [
-    {
-      "id": "./node_modules/lodash/_listCacheClear.js",
-      "name": "./node_modules/lodash/_listCacheClear.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "./_listCacheDelete": [
-    {
-      "id": "./node_modules/lodash/_listCacheDelete.js",
-      "name": "./node_modules/lodash/_listCacheDelete.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
-    }
-  ],
-  "/Users/jonathanreading/Development/aya/node_modules/webpack-dev-server/client/index.js?http://localhost:9000": [
-    {
-      "id": "./node_modules/webpack-dev-server/client/index.js?http://localhost:9000",
-      "name": "./node_modules/webpack-dev-server/client/index.js?http://localhost:9000",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "id": "./config/dev.json",
+      "name": "./config/dev.json",
+      "file": "main.910ff4dfd3e8066fa8e8.hot-update.js",
+      "publicPath": "http://localhost:9000/main.910ff4dfd3e8066fa8e8.hot-update.js"
     }
   ],
   "./eq": [
     {
       "id": "./node_modules/lodash/eq.js",
       "name": "./node_modules/lodash/eq.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "url": [
+    {
+      "id": "./node_modules/url/url.js",
+      "name": "./node_modules/url/url.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "punycode": [
+    {
+      "id": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "name": "./node_modules/node-libs-browser/node_modules/punycode/punycode.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./../../../webpack/buildin/module.js": [
+    {
+      "id": "./node_modules/webpack/buildin/module.js",
+      "name": "./node_modules/webpack/buildin/module.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./../../webpack/buildin/global.js": [
+    {
+      "id": "./node_modules/webpack/buildin/global.js",
+      "name": "./node_modules/webpack/buildin/global.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./util": [
+    {
+      "id": "./node_modules/url/util.js",
+      "name": "./node_modules/url/util.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "querystring": [
+    {
+      "id": "./node_modules/querystring-es3/index.js",
+      "name": "./node_modules/querystring-es3/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./decode": [
+    {
+      "id": "./node_modules/querystring-es3/decode.js",
+      "name": "./node_modules/querystring-es3/decode.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./encode": [
+    {
+      "id": "./node_modules/querystring-es3/encode.js",
+      "name": "./node_modules/querystring-es3/encode.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "strip-ansi": [
+    {
+      "id": "./node_modules/strip-ansi/index.js",
+      "name": "./node_modules/strip-ansi/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "ansi-regex": [
+    {
+      "id": "./node_modules/ansi-regex/index.js",
+      "name": "./node_modules/ansi-regex/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "loglevel": [
+    {
+      "id": "./node_modules/loglevel/lib/loglevel.js",
+      "name": "./node_modules/loglevel/lib/loglevel.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./socket": [
+    {
+      "id": "./node_modules/webpack-dev-server/client/socket.js",
+      "name": "./node_modules/webpack-dev-server/client/socket.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "sockjs-client/dist/sockjs": [
+    {
+      "id": "./node_modules/sockjs-client/dist/sockjs.js",
+      "name": "./node_modules/sockjs-client/dist/sockjs.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./overlay": [
+    {
+      "id": "./node_modules/webpack-dev-server/client/overlay.js",
+      "name": "./node_modules/webpack-dev-server/client/overlay.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "ansi-html": [
+    {
+      "id": "./node_modules/ansi-html/index.js",
+      "name": "./node_modules/ansi-html/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "html-entities": [
+    {
+      "id": "./node_modules/html-entities/index.js",
+      "name": "./node_modules/html-entities/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./lib/xml-entities.js": [
+    {
+      "id": "./node_modules/html-entities/lib/xml-entities.js",
+      "name": "./node_modules/html-entities/lib/xml-entities.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./lib/html4-entities.js": [
+    {
+      "id": "./node_modules/html-entities/lib/html4-entities.js",
+      "name": "./node_modules/html-entities/lib/html4-entities.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./lib/html5-entities.js": [
+    {
+      "id": "./node_modules/html-entities/lib/html5-entities.js",
+      "name": "./node_modules/html-entities/lib/html5-entities.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./log": [
+    {
+      "id": "./node_modules/webpack/hot/log.js",
+      "name": "./node_modules/webpack/hot/log.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "webpack/hot/emitter": [
+    {
+      "id": "./node_modules/webpack/hot/emitter.js",
+      "name": "./node_modules/webpack/hot/emitter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "events": [
+    {
+      "id": "./node_modules/node-libs-browser/node_modules/events/events.js",
+      "name": "./node_modules/node-libs-browser/node_modules/events/events.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "/Users/jonathanreading/Development/aya/node_modules/webpack/hot/dev-server.js": [
+    {
+      "id": "./node_modules/webpack/hot/dev-server.js",
+      "name": "./node_modules/webpack/hot/dev-server.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./log-apply-result": [
+    {
+      "id": "./node_modules/webpack/hot/log-apply-result.js",
+      "name": "./node_modules/webpack/hot/log-apply-result.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react": [
+    {
+      "id": "./node_modules/react/index.js",
+      "name": "./node_modules/react/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./cjs/react.development.js": [
+    {
+      "id": "./node_modules/react/cjs/react.development.js",
+      "name": "./node_modules/react/cjs/react.development.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "object-assign": [
+    {
+      "id": "./node_modules/object-assign/index.js",
+      "name": "./node_modules/object-assign/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "prop-types/checkPropTypes": [
+    {
+      "id": "./node_modules/prop-types/checkPropTypes.js",
+      "name": "./node_modules/prop-types/checkPropTypes.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./lib/ReactPropTypesSecret": [
+    {
+      "id": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "name": "./node_modules/prop-types/lib/ReactPropTypesSecret.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-dom": [
+    {
+      "id": "./node_modules/react-dom/index.js",
+      "name": "./node_modules/react-dom/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./cjs/react-dom.development.js": [
+    {
+      "id": "./node_modules/react-dom/cjs/react-dom.development.js",
+      "name": "./node_modules/react-dom/cjs/react-dom.development.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "schedule": [
+    {
+      "id": "./node_modules/schedule/index.js",
+      "name": "./node_modules/schedule/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./cjs/schedule.development.js": [
+    {
+      "id": "./node_modules/schedule/cjs/schedule.development.js",
+      "name": "./node_modules/schedule/cjs/schedule.development.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "schedule/tracing": [
+    {
+      "id": "./node_modules/schedule/tracing.js",
+      "name": "./node_modules/schedule/tracing.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./cjs/schedule-tracing.development.js": [
+    {
+      "id": "./node_modules/schedule/cjs/schedule-tracing.development.js",
+      "name": "./node_modules/schedule/cjs/schedule-tracing.development.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "redux": [
+    {
+      "id": "./node_modules/redux/es/redux.js",
+      "name": "./node_modules/redux/es/redux.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "symbol-observable": [
+    {
+      "id": "./node_modules/symbol-observable/es/index.js",
+      "name": "./node_modules/symbol-observable/es/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./../node_modules/webpack/buildin/harmony-module.js": [
+    {
+      "id": "./node_modules/webpack/buildin/harmony-module.js",
+      "name": "./node_modules/webpack/buildin/harmony-module.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./ponyfill.js": [
+    {
+      "id": "./node_modules/symbol-observable/es/ponyfill.js",
+      "name": "./node_modules/symbol-observable/es/ponyfill.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-hot-loader": [
+    {
+      "id": "./node_modules/react-hot-loader/index.js",
+      "name": "./node_modules/react-hot-loader/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./dist/react-hot-loader.production.min.js": [
+    {
+      "id": "./node_modules/react-hot-loader/dist/react-hot-loader.production.min.js",
+      "name": "./node_modules/react-hot-loader/dist/react-hot-loader.production.min.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./dist/react-hot-loader.development.js": [
+    {
+      "id": "./node_modules/react-hot-loader/dist/react-hot-loader.development.js",
+      "name": "./node_modules/react-hot-loader/dist/react-hot-loader.development.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "shallowequal": [
+    {
+      "id": "./node_modules/shallowequal/index.js",
+      "name": "./node_modules/shallowequal/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "fast-levenshtein": [
+    {
+      "id": "./node_modules/fast-levenshtein/levenshtein.js",
+      "name": "./node_modules/fast-levenshtein/levenshtein.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "!!webpack amd define": [
+    {
+      "id": "./node_modules/webpack/buildin/amd-define.js",
+      "name": "./node_modules/webpack/buildin/amd-define.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "!!webpack amd options": [
+    {
+      "id": "./node_modules/webpack/buildin/amd-options.js",
+      "name": "./node_modules/webpack/buildin/amd-options.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "prop-types": [
+    {
+      "id": "./node_modules/prop-types/index.js",
+      "name": "./node_modules/prop-types/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./factoryWithTypeCheckers": [
+    {
+      "id": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "name": "./node_modules/prop-types/factoryWithTypeCheckers.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-lifecycles-compat": [
+    {
+      "id": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "name": "./node_modules/react-lifecycles-compat/react-lifecycles-compat.es.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "hoist-non-react-statics": [
+    {
+      "id": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "name": "./node_modules/hoist-non-react-statics/dist/hoist-non-react-statics.cjs.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-redux": [
+    {
+      "id": "./node_modules/react-redux/es/index.js",
+      "name": "./node_modules/react-redux/es/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./components/Provider": [
+    {
+      "id": "./node_modules/react-redux/es/components/Provider.js",
+      "name": "./node_modules/react-redux/es/components/Provider.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "../utils/PropTypes": [
+    {
+      "id": "./node_modules/react-redux/es/utils/PropTypes.js",
+      "name": "./node_modules/react-redux/es/utils/PropTypes.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "../utils/warning": [
+    {
+      "id": "./node_modules/react-redux/es/utils/warning.js",
+      "name": "./node_modules/react-redux/es/utils/warning.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./components/connectAdvanced": [
+    {
+      "id": "./node_modules/react-redux/es/components/connectAdvanced.js",
+      "name": "./node_modules/react-redux/es/components/connectAdvanced.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "invariant": [
+    {
+      "id": "./node_modules/invariant/browser.js",
+      "name": "./node_modules/invariant/browser.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "../utils/Subscription": [
+    {
+      "id": "./node_modules/react-redux/es/utils/Subscription.js",
+      "name": "./node_modules/react-redux/es/utils/Subscription.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./connect/connect": [
+    {
+      "id": "./node_modules/react-redux/es/connect/connect.js",
+      "name": "./node_modules/react-redux/es/connect/connect.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "../utils/shallowEqual": [
+    {
+      "id": "./node_modules/react-redux/es/utils/shallowEqual.js",
+      "name": "./node_modules/react-redux/es/utils/shallowEqual.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./mapDispatchToProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
+      "name": "./node_modules/react-redux/es/connect/mapDispatchToProps.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./wrapMapToProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
+      "name": "./node_modules/react-redux/es/connect/wrapMapToProps.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "../utils/verifyPlainObject": [
+    {
+      "id": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
+      "name": "./node_modules/react-redux/es/utils/verifyPlainObject.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "lodash-es/isPlainObject": [
+    {
+      "id": "./node_modules/lodash-es/isPlainObject.js",
+      "name": "./node_modules/lodash-es/isPlainObject.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_baseGetTag.js": [
+    {
+      "id": "./node_modules/lodash-es/_baseGetTag.js",
+      "name": "./node_modules/lodash-es/_baseGetTag.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_Symbol.js": [
+    {
+      "id": "./node_modules/lodash-es/_Symbol.js",
+      "name": "./node_modules/lodash-es/_Symbol.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_root.js": [
+    {
+      "id": "./node_modules/lodash-es/_root.js",
+      "name": "./node_modules/lodash-es/_root.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_freeGlobal.js": [
+    {
+      "id": "./node_modules/lodash-es/_freeGlobal.js",
+      "name": "./node_modules/lodash-es/_freeGlobal.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_getRawTag.js": [
+    {
+      "id": "./node_modules/lodash-es/_getRawTag.js",
+      "name": "./node_modules/lodash-es/_getRawTag.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_objectToString.js": [
+    {
+      "id": "./node_modules/lodash-es/_objectToString.js",
+      "name": "./node_modules/lodash-es/_objectToString.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_getPrototype.js": [
+    {
+      "id": "./node_modules/lodash-es/_getPrototype.js",
+      "name": "./node_modules/lodash-es/_getPrototype.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_overArg.js": [
+    {
+      "id": "./node_modules/lodash-es/_overArg.js",
+      "name": "./node_modules/lodash-es/_overArg.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./isObjectLike.js": [
+    {
+      "id": "./node_modules/lodash-es/isObjectLike.js",
+      "name": "./node_modules/lodash-es/isObjectLike.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./mapStateToProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/mapStateToProps.js",
+      "name": "./node_modules/react-redux/es/connect/mapStateToProps.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./mergeProps": [
+    {
+      "id": "./node_modules/react-redux/es/connect/mergeProps.js",
+      "name": "./node_modules/react-redux/es/connect/mergeProps.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./selectorFactory": [
+    {
+      "id": "./node_modules/react-redux/es/connect/selectorFactory.js",
+      "name": "./node_modules/react-redux/es/connect/selectorFactory.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./verifySubselectors": [
+    {
+      "id": "./node_modules/react-redux/es/connect/verifySubselectors.js",
+      "name": "./node_modules/react-redux/es/connect/verifySubselectors.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router-dom": [
+    {
+      "id": "./node_modules/react-router-dom/es/index.js",
+      "name": "./node_modules/react-router-dom/es/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./BrowserRouter": [
+    {
+      "id": "./node_modules/react-router-dom/es/BrowserRouter.js",
+      "name": "./node_modules/react-router-dom/es/BrowserRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "warning": [
+    {
+      "id": "./node_modules/warning/warning.js",
+      "name": "./node_modules/warning/warning.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    },
+    {
+      "id": "./node_modules/history/node_modules/warning/browser.js",
+      "name": "./node_modules/history/node_modules/warning/browser.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "history": [
+    {
+      "id": "./node_modules/history/es/index.js",
+      "name": "./node_modules/history/es/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./createBrowserHistory": [
+    {
+      "id": "./node_modules/history/es/createBrowserHistory.js",
+      "name": "./node_modules/history/es/createBrowserHistory.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./LocationUtils": [
+    {
+      "id": "./node_modules/history/es/LocationUtils.js",
+      "name": "./node_modules/history/es/LocationUtils.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "resolve-pathname": [
+    {
+      "id": "./node_modules/resolve-pathname/index.js",
+      "name": "./node_modules/resolve-pathname/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "value-equal": [
+    {
+      "id": "./node_modules/value-equal/index.js",
+      "name": "./node_modules/value-equal/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./PathUtils": [
+    {
+      "id": "./node_modules/history/es/PathUtils.js",
+      "name": "./node_modules/history/es/PathUtils.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./createTransitionManager": [
+    {
+      "id": "./node_modules/history/es/createTransitionManager.js",
+      "name": "./node_modules/history/es/createTransitionManager.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./DOMUtils": [
+    {
+      "id": "./node_modules/history/es/DOMUtils.js",
+      "name": "./node_modules/history/es/DOMUtils.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./createHashHistory": [
+    {
+      "id": "./node_modules/history/es/createHashHistory.js",
+      "name": "./node_modules/history/es/createHashHistory.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./createMemoryHistory": [
+    {
+      "id": "./node_modules/history/es/createMemoryHistory.js",
+      "name": "./node_modules/history/es/createMemoryHistory.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./Router": [
+    {
+      "id": "./node_modules/react-router-dom/es/Router.js",
+      "name": "./node_modules/react-router-dom/es/Router.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/Router": [
+    {
+      "id": "./node_modules/react-router/es/Router.js",
+      "name": "./node_modules/react-router/es/Router.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./HashRouter": [
+    {
+      "id": "./node_modules/react-router-dom/es/HashRouter.js",
+      "name": "./node_modules/react-router-dom/es/HashRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./Link": [
+    {
+      "id": "./node_modules/react-router-dom/es/Link.js",
+      "name": "./node_modules/react-router-dom/es/Link.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./MemoryRouter": [
+    {
+      "id": "./node_modules/react-router-dom/es/MemoryRouter.js",
+      "name": "./node_modules/react-router-dom/es/MemoryRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/MemoryRouter": [
+    {
+      "id": "./node_modules/react-router/es/MemoryRouter.js",
+      "name": "./node_modules/react-router/es/MemoryRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./NavLink": [
+    {
+      "id": "./node_modules/react-router-dom/es/NavLink.js",
+      "name": "./node_modules/react-router-dom/es/NavLink.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./Route": [
+    {
+      "id": "./node_modules/react-router-dom/es/Route.js",
+      "name": "./node_modules/react-router-dom/es/Route.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/Route": [
+    {
+      "id": "./node_modules/react-router/es/Route.js",
+      "name": "./node_modules/react-router/es/Route.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/matchPath": [
+    {
+      "id": "./node_modules/react-router/es/matchPath.js",
+      "name": "./node_modules/react-router/es/matchPath.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "path-to-regexp": [
+    {
+      "id": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "name": "./node_modules/react-router/node_modules/path-to-regexp/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "isarray": [
+    {
+      "id": "./node_modules/isarray/index.js",
+      "name": "./node_modules/isarray/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./Prompt": [
+    {
+      "id": "./node_modules/react-router-dom/es/Prompt.js",
+      "name": "./node_modules/react-router-dom/es/Prompt.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/Prompt": [
+    {
+      "id": "./node_modules/react-router/es/Prompt.js",
+      "name": "./node_modules/react-router/es/Prompt.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./Redirect": [
+    {
+      "id": "./node_modules/react-router-dom/es/Redirect.js",
+      "name": "./node_modules/react-router-dom/es/Redirect.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/Redirect": [
+    {
+      "id": "./node_modules/react-router/es/Redirect.js",
+      "name": "./node_modules/react-router/es/Redirect.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/generatePath": [
+    {
+      "id": "./node_modules/react-router/es/generatePath.js",
+      "name": "./node_modules/react-router/es/generatePath.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./StaticRouter": [
+    {
+      "id": "./node_modules/react-router-dom/es/StaticRouter.js",
+      "name": "./node_modules/react-router-dom/es/StaticRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/StaticRouter": [
+    {
+      "id": "./node_modules/react-router/es/StaticRouter.js",
+      "name": "./node_modules/react-router/es/StaticRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./Switch": [
+    {
+      "id": "./node_modules/react-router-dom/es/Switch.js",
+      "name": "./node_modules/react-router-dom/es/Switch.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/Switch": [
+    {
+      "id": "./node_modules/react-router/es/Switch.js",
+      "name": "./node_modules/react-router/es/Switch.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./generatePath": [
+    {
+      "id": "./node_modules/react-router-dom/es/generatePath.js",
+      "name": "./node_modules/react-router-dom/es/generatePath.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./matchPath": [
+    {
+      "id": "./node_modules/react-router-dom/es/matchPath.js",
+      "name": "./node_modules/react-router-dom/es/matchPath.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./withRouter": [
+    {
+      "id": "./node_modules/react-router-dom/es/withRouter.js",
+      "name": "./node_modules/react-router-dom/es/withRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/es/withRouter": [
+    {
+      "id": "./node_modules/react-router/es/withRouter.js",
+      "name": "./node_modules/react-router/es/withRouter.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-loadable": [
+    {
+      "id": "./node_modules/react-loadable/lib/index.js",
+      "name": "./node_modules/react-loadable/lib/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router-config": [
+    {
+      "id": "./node_modules/react-router-config/es/index.js",
+      "name": "./node_modules/react-router-config/es/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./matchRoutes": [
+    {
+      "id": "./node_modules/react-router-config/es/matchRoutes.js",
+      "name": "./node_modules/react-router-config/es/matchRoutes.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/matchPath": [
+    {
+      "id": "./node_modules/react-router/matchPath.js",
+      "name": "./node_modules/react-router/matchPath.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/Router": [
+    {
+      "id": "./node_modules/react-router/Router.js",
+      "name": "./node_modules/react-router/Router.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./renderRoutes": [
+    {
+      "id": "./node_modules/react-router-config/es/renderRoutes.js",
+      "name": "./node_modules/react-router-config/es/renderRoutes.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/Switch": [
+    {
+      "id": "./node_modules/react-router/Switch.js",
+      "name": "./node_modules/react-router/Switch.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "react-router/Route": [
+    {
+      "id": "./node_modules/react-router/Route.js",
+      "name": "./node_modules/react-router/Route.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "@babel/runtime/helpers/objectSpread": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/objectSpread.js",
+      "name": "./node_modules/@babel/runtime/helpers/objectSpread.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./defineProperty": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/defineProperty.js",
+      "name": "./node_modules/@babel/runtime/helpers/defineProperty.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "@babel/runtime/helpers/classCallCheck": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/classCallCheck.js",
+      "name": "./node_modules/@babel/runtime/helpers/classCallCheck.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "@babel/runtime/helpers/createClass": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/createClass.js",
+      "name": "./node_modules/@babel/runtime/helpers/createClass.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "@babel/runtime/helpers/possibleConstructorReturn": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "name": "./node_modules/@babel/runtime/helpers/possibleConstructorReturn.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "../helpers/typeof": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/typeof.js",
+      "name": "./node_modules/@babel/runtime/helpers/typeof.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./assertThisInitialized": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "name": "./node_modules/@babel/runtime/helpers/assertThisInitialized.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "@babel/runtime/helpers/getPrototypeOf": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "name": "./node_modules/@babel/runtime/helpers/getPrototypeOf.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "@babel/runtime/helpers/inherits": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "name": "./node_modules/@babel/runtime/helpers/inherits.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./setPrototypeOf": [
+    {
+      "id": "./node_modules/@babel/runtime/helpers/setPrototypeOf.js",
+      "name": "./node_modules/@babel/runtime/helpers/setPrototypeOf.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "redux-saga-thunk": [
+    {
+      "id": "./node_modules/redux-saga-thunk/index.js",
+      "name": "./node_modules/redux-saga-thunk/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./dist": [
+    {
+      "id": "./node_modules/redux-saga-thunk/dist/index.js",
+      "name": "./node_modules/redux-saga-thunk/dist/index.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./middleware": [
+    {
+      "id": "./node_modules/redux-saga-thunk/dist/middleware.js",
+      "name": "./node_modules/redux-saga-thunk/dist/middleware.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./utils": [
+    {
+      "id": "./node_modules/redux-saga-thunk/dist/utils.js",
+      "name": "./node_modules/redux-saga-thunk/dist/utils.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    },
+    {
+      "id": "./node_modules/redux-saga/es/utils.js",
+      "name": "./node_modules/redux-saga/es/utils.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./actions": [
+    {
+      "id": "./node_modules/redux-saga-thunk/dist/actions.js",
+      "name": "./node_modules/redux-saga-thunk/dist/actions.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./reducer": [
+    {
+      "id": "./node_modules/redux-saga-thunk/dist/reducer.js",
+      "name": "./node_modules/redux-saga-thunk/dist/reducer.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./selectors": [
+    {
+      "id": "./node_modules/redux-saga-thunk/dist/selectors.js",
+      "name": "./node_modules/redux-saga-thunk/dist/selectors.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "lodash/find": [
+    {
+      "id": "./node_modules/lodash/find.js",
+      "name": "./node_modules/lodash/find.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_createFind": [
+    {
+      "id": "./node_modules/lodash/_createFind.js",
+      "name": "./node_modules/lodash/_createFind.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_baseIteratee": [
+    {
+      "id": "./node_modules/lodash/_baseIteratee.js",
+      "name": "./node_modules/lodash/_baseIteratee.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_baseMatches": [
+    {
+      "id": "./node_modules/lodash/_baseMatches.js",
+      "name": "./node_modules/lodash/_baseMatches.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_baseIsMatch": [
+    {
+      "id": "./node_modules/lodash/_baseIsMatch.js",
+      "name": "./node_modules/lodash/_baseIsMatch.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_Stack": [
+    {
+      "id": "./node_modules/lodash/_Stack.js",
+      "name": "./node_modules/lodash/_Stack.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_ListCache": [
+    {
+      "id": "./node_modules/lodash/_ListCache.js",
+      "name": "./node_modules/lodash/_ListCache.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_listCacheClear": [
+    {
+      "id": "./node_modules/lodash/_listCacheClear.js",
+      "name": "./node_modules/lodash/_listCacheClear.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_listCacheDelete": [
+    {
+      "id": "./node_modules/lodash/_listCacheDelete.js",
+      "name": "./node_modules/lodash/_listCacheDelete.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./_assocIndexOf": [
+    {
+      "id": "./node_modules/lodash/_assocIndexOf.js",
+      "name": "./node_modules/lodash/_assocIndexOf.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "/Users/jonathanreading/Development/aya/node_modules/webpack-dev-server/client/index.js?http://localhost:9000": [
+    {
+      "id": "./node_modules/webpack-dev-server/client/index.js?http://localhost:9000",
+      "name": "./node_modules/webpack-dev-server/client/index.js?http://localhost:9000",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_listCacheGet": [
     {
       "id": "./node_modules/lodash/_listCacheGet.js",
       "name": "./node_modules/lodash/_listCacheGet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_listCacheHas": [
     {
       "id": "./node_modules/lodash/_listCacheHas.js",
       "name": "./node_modules/lodash/_listCacheHas.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_listCacheSet": [
     {
       "id": "./node_modules/lodash/_listCacheSet.js",
       "name": "./node_modules/lodash/_listCacheSet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_stackClear": [
     {
       "id": "./node_modules/lodash/_stackClear.js",
       "name": "./node_modules/lodash/_stackClear.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_stackDelete": [
     {
       "id": "./node_modules/lodash/_stackDelete.js",
       "name": "./node_modules/lodash/_stackDelete.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_stackGet": [
     {
       "id": "./node_modules/lodash/_stackGet.js",
       "name": "./node_modules/lodash/_stackGet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_stackHas": [
     {
       "id": "./node_modules/lodash/_stackHas.js",
       "name": "./node_modules/lodash/_stackHas.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_stackSet": [
     {
       "id": "./node_modules/lodash/_stackSet.js",
       "name": "./node_modules/lodash/_stackSet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_Map": [
     {
       "id": "./node_modules/lodash/_Map.js",
       "name": "./node_modules/lodash/_Map.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getNative": [
     {
       "id": "./node_modules/lodash/_getNative.js",
       "name": "./node_modules/lodash/_getNative.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseIsNative": [
     {
       "id": "./node_modules/lodash/_baseIsNative.js",
       "name": "./node_modules/lodash/_baseIsNative.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isFunction": [
     {
       "id": "./node_modules/lodash/isFunction.js",
       "name": "./node_modules/lodash/isFunction.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseGetTag": [
     {
       "id": "./node_modules/lodash/_baseGetTag.js",
       "name": "./node_modules/lodash/_baseGetTag.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_Symbol": [
     {
       "id": "./node_modules/lodash/_Symbol.js",
       "name": "./node_modules/lodash/_Symbol.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_root": [
     {
       "id": "./node_modules/lodash/_root.js",
       "name": "./node_modules/lodash/_root.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_freeGlobal": [
     {
       "id": "./node_modules/lodash/_freeGlobal.js",
       "name": "./node_modules/lodash/_freeGlobal.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getRawTag": [
     {
       "id": "./node_modules/lodash/_getRawTag.js",
       "name": "./node_modules/lodash/_getRawTag.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_objectToString": [
     {
       "id": "./node_modules/lodash/_objectToString.js",
       "name": "./node_modules/lodash/_objectToString.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isObject": [
     {
       "id": "./node_modules/lodash/isObject.js",
       "name": "./node_modules/lodash/isObject.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isMasked": [
     {
       "id": "./node_modules/lodash/_isMasked.js",
       "name": "./node_modules/lodash/_isMasked.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_coreJsData": [
     {
       "id": "./node_modules/lodash/_coreJsData.js",
       "name": "./node_modules/lodash/_coreJsData.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_toSource": [
     {
       "id": "./node_modules/lodash/_toSource.js",
       "name": "./node_modules/lodash/_toSource.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getValue": [
     {
       "id": "./node_modules/lodash/_getValue.js",
       "name": "./node_modules/lodash/_getValue.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_MapCache": [
     {
       "id": "./node_modules/lodash/_MapCache.js",
       "name": "./node_modules/lodash/_MapCache.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_mapCacheClear": [
     {
       "id": "./node_modules/lodash/_mapCacheClear.js",
       "name": "./node_modules/lodash/_mapCacheClear.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_Hash": [
     {
       "id": "./node_modules/lodash/_Hash.js",
       "name": "./node_modules/lodash/_Hash.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_hashClear": [
     {
       "id": "./node_modules/lodash/_hashClear.js",
       "name": "./node_modules/lodash/_hashClear.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_nativeCreate": [
     {
       "id": "./node_modules/lodash/_nativeCreate.js",
       "name": "./node_modules/lodash/_nativeCreate.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_hashDelete": [
     {
       "id": "./node_modules/lodash/_hashDelete.js",
       "name": "./node_modules/lodash/_hashDelete.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_hashGet": [
     {
       "id": "./node_modules/lodash/_hashGet.js",
       "name": "./node_modules/lodash/_hashGet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_hashHas": [
     {
       "id": "./node_modules/lodash/_hashHas.js",
       "name": "./node_modules/lodash/_hashHas.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_hashSet": [
     {
       "id": "./node_modules/lodash/_hashSet.js",
       "name": "./node_modules/lodash/_hashSet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_mapCacheDelete": [
     {
       "id": "./node_modules/lodash/_mapCacheDelete.js",
       "name": "./node_modules/lodash/_mapCacheDelete.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getMapData": [
     {
       "id": "./node_modules/lodash/_getMapData.js",
       "name": "./node_modules/lodash/_getMapData.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isKeyable": [
     {
       "id": "./node_modules/lodash/_isKeyable.js",
       "name": "./node_modules/lodash/_isKeyable.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_mapCacheGet": [
     {
       "id": "./node_modules/lodash/_mapCacheGet.js",
       "name": "./node_modules/lodash/_mapCacheGet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_mapCacheHas": [
     {
       "id": "./node_modules/lodash/_mapCacheHas.js",
       "name": "./node_modules/lodash/_mapCacheHas.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_mapCacheSet": [
     {
       "id": "./node_modules/lodash/_mapCacheSet.js",
       "name": "./node_modules/lodash/_mapCacheSet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseIsEqual": [
     {
       "id": "./node_modules/lodash/_baseIsEqual.js",
       "name": "./node_modules/lodash/_baseIsEqual.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseIsEqualDeep": [
     {
       "id": "./node_modules/lodash/_baseIsEqualDeep.js",
       "name": "./node_modules/lodash/_baseIsEqualDeep.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_equalArrays": [
     {
       "id": "./node_modules/lodash/_equalArrays.js",
       "name": "./node_modules/lodash/_equalArrays.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_SetCache": [
     {
       "id": "./node_modules/lodash/_SetCache.js",
       "name": "./node_modules/lodash/_SetCache.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_setCacheAdd": [
     {
       "id": "./node_modules/lodash/_setCacheAdd.js",
       "name": "./node_modules/lodash/_setCacheAdd.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_setCacheHas": [
     {
       "id": "./node_modules/lodash/_setCacheHas.js",
       "name": "./node_modules/lodash/_setCacheHas.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_arraySome": [
     {
       "id": "./node_modules/lodash/_arraySome.js",
       "name": "./node_modules/lodash/_arraySome.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_cacheHas": [
     {
       "id": "./node_modules/lodash/_cacheHas.js",
       "name": "./node_modules/lodash/_cacheHas.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_equalByTag": [
     {
       "id": "./node_modules/lodash/_equalByTag.js",
       "name": "./node_modules/lodash/_equalByTag.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_Uint8Array": [
     {
       "id": "./node_modules/lodash/_Uint8Array.js",
       "name": "./node_modules/lodash/_Uint8Array.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_mapToArray": [
     {
       "id": "./node_modules/lodash/_mapToArray.js",
       "name": "./node_modules/lodash/_mapToArray.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_setToArray": [
     {
       "id": "./node_modules/lodash/_setToArray.js",
       "name": "./node_modules/lodash/_setToArray.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_equalObjects": [
     {
       "id": "./node_modules/lodash/_equalObjects.js",
       "name": "./node_modules/lodash/_equalObjects.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getAllKeys": [
     {
       "id": "./node_modules/lodash/_getAllKeys.js",
       "name": "./node_modules/lodash/_getAllKeys.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseGetAllKeys": [
     {
       "id": "./node_modules/lodash/_baseGetAllKeys.js",
       "name": "./node_modules/lodash/_baseGetAllKeys.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_arrayPush": [
     {
       "id": "./node_modules/lodash/_arrayPush.js",
       "name": "./node_modules/lodash/_arrayPush.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isArray": [
     {
       "id": "./node_modules/lodash/isArray.js",
       "name": "./node_modules/lodash/isArray.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getSymbols": [
     {
       "id": "./node_modules/lodash/_getSymbols.js",
       "name": "./node_modules/lodash/_getSymbols.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_arrayFilter": [
     {
       "id": "./node_modules/lodash/_arrayFilter.js",
       "name": "./node_modules/lodash/_arrayFilter.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./stubArray": [
     {
       "id": "./node_modules/lodash/stubArray.js",
       "name": "./node_modules/lodash/stubArray.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./keys": [
     {
       "id": "./node_modules/lodash/keys.js",
       "name": "./node_modules/lodash/keys.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_arrayLikeKeys": [
     {
       "id": "./node_modules/lodash/_arrayLikeKeys.js",
       "name": "./node_modules/lodash/_arrayLikeKeys.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseTimes": [
     {
       "id": "./node_modules/lodash/_baseTimes.js",
       "name": "./node_modules/lodash/_baseTimes.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isArguments": [
     {
       "id": "./node_modules/lodash/isArguments.js",
       "name": "./node_modules/lodash/isArguments.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseIsArguments": [
     {
       "id": "./node_modules/lodash/_baseIsArguments.js",
       "name": "./node_modules/lodash/_baseIsArguments.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isObjectLike": [
     {
       "id": "./node_modules/lodash/isObjectLike.js",
       "name": "./node_modules/lodash/isObjectLike.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isBuffer": [
     {
       "id": "./node_modules/lodash/isBuffer.js",
       "name": "./node_modules/lodash/isBuffer.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./stubFalse": [
     {
       "id": "./node_modules/lodash/stubFalse.js",
       "name": "./node_modules/lodash/stubFalse.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isIndex": [
     {
       "id": "./node_modules/lodash/_isIndex.js",
       "name": "./node_modules/lodash/_isIndex.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isTypedArray": [
     {
       "id": "./node_modules/lodash/isTypedArray.js",
       "name": "./node_modules/lodash/isTypedArray.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseIsTypedArray": [
     {
       "id": "./node_modules/lodash/_baseIsTypedArray.js",
       "name": "./node_modules/lodash/_baseIsTypedArray.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isLength": [
     {
       "id": "./node_modules/lodash/isLength.js",
       "name": "./node_modules/lodash/isLength.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseUnary": [
     {
       "id": "./node_modules/lodash/_baseUnary.js",
       "name": "./node_modules/lodash/_baseUnary.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_nodeUtil": [
     {
       "id": "./node_modules/lodash/_nodeUtil.js",
       "name": "./node_modules/lodash/_nodeUtil.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseKeys": [
     {
       "id": "./node_modules/lodash/_baseKeys.js",
       "name": "./node_modules/lodash/_baseKeys.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isPrototype": [
     {
       "id": "./node_modules/lodash/_isPrototype.js",
       "name": "./node_modules/lodash/_isPrototype.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_nativeKeys": [
     {
       "id": "./node_modules/lodash/_nativeKeys.js",
       "name": "./node_modules/lodash/_nativeKeys.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_overArg": [
     {
       "id": "./node_modules/lodash/_overArg.js",
       "name": "./node_modules/lodash/_overArg.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isArrayLike": [
     {
       "id": "./node_modules/lodash/isArrayLike.js",
       "name": "./node_modules/lodash/isArrayLike.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getTag": [
     {
       "id": "./node_modules/lodash/_getTag.js",
       "name": "./node_modules/lodash/_getTag.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_DataView": [
     {
       "id": "./node_modules/lodash/_DataView.js",
       "name": "./node_modules/lodash/_DataView.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_Promise": [
     {
       "id": "./node_modules/lodash/_Promise.js",
       "name": "./node_modules/lodash/_Promise.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_Set": [
     {
       "id": "./node_modules/lodash/_Set.js",
       "name": "./node_modules/lodash/_Set.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_WeakMap": [
     {
       "id": "./node_modules/lodash/_WeakMap.js",
       "name": "./node_modules/lodash/_WeakMap.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_getMatchData": [
     {
       "id": "./node_modules/lodash/_getMatchData.js",
       "name": "./node_modules/lodash/_getMatchData.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isStrictComparable": [
     {
       "id": "./node_modules/lodash/_isStrictComparable.js",
       "name": "./node_modules/lodash/_isStrictComparable.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_matchesStrictComparable": [
     {
       "id": "./node_modules/lodash/_matchesStrictComparable.js",
       "name": "./node_modules/lodash/_matchesStrictComparable.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseMatchesProperty": [
     {
       "id": "./node_modules/lodash/_baseMatchesProperty.js",
       "name": "./node_modules/lodash/_baseMatchesProperty.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./get": [
     {
       "id": "./node_modules/lodash/get.js",
       "name": "./node_modules/lodash/get.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseGet": [
     {
       "id": "./node_modules/lodash/_baseGet.js",
       "name": "./node_modules/lodash/_baseGet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_castPath": [
     {
       "id": "./node_modules/lodash/_castPath.js",
       "name": "./node_modules/lodash/_castPath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isKey": [
     {
       "id": "./node_modules/lodash/_isKey.js",
       "name": "./node_modules/lodash/_isKey.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./isSymbol": [
     {
       "id": "./node_modules/lodash/isSymbol.js",
       "name": "./node_modules/lodash/isSymbol.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_stringToPath": [
     {
       "id": "./node_modules/lodash/_stringToPath.js",
       "name": "./node_modules/lodash/_stringToPath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_memoizeCapped": [
     {
       "id": "./node_modules/lodash/_memoizeCapped.js",
       "name": "./node_modules/lodash/_memoizeCapped.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./memoize": [
     {
       "id": "./node_modules/lodash/memoize.js",
       "name": "./node_modules/lodash/memoize.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./toString": [
     {
       "id": "./node_modules/lodash/toString.js",
       "name": "./node_modules/lodash/toString.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseToString": [
     {
       "id": "./node_modules/lodash/_baseToString.js",
       "name": "./node_modules/lodash/_baseToString.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_arrayMap": [
     {
       "id": "./node_modules/lodash/_arrayMap.js",
       "name": "./node_modules/lodash/_arrayMap.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_toKey": [
     {
       "id": "./node_modules/lodash/_toKey.js",
       "name": "./node_modules/lodash/_toKey.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./hasIn": [
     {
       "id": "./node_modules/lodash/hasIn.js",
       "name": "./node_modules/lodash/hasIn.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseHasIn": [
     {
       "id": "./node_modules/lodash/_baseHasIn.js",
       "name": "./node_modules/lodash/_baseHasIn.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_hasPath": [
     {
       "id": "./node_modules/lodash/_hasPath.js",
       "name": "./node_modules/lodash/_hasPath.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./identity": [
     {
       "id": "./node_modules/lodash/identity.js",
       "name": "./node_modules/lodash/identity.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./property": [
     {
       "id": "./node_modules/lodash/property.js",
       "name": "./node_modules/lodash/property.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseProperty": [
     {
       "id": "./node_modules/lodash/_baseProperty.js",
       "name": "./node_modules/lodash/_baseProperty.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_basePropertyDeep": [
     {
       "id": "./node_modules/lodash/_basePropertyDeep.js",
       "name": "./node_modules/lodash/_basePropertyDeep.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./findIndex": [
     {
       "id": "./node_modules/lodash/findIndex.js",
       "name": "./node_modules/lodash/findIndex.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseFindIndex": [
     {
       "id": "./node_modules/lodash/_baseFindIndex.js",
       "name": "./node_modules/lodash/_baseFindIndex.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./toInteger": [
     {
       "id": "./node_modules/lodash/toInteger.js",
       "name": "./node_modules/lodash/toInteger.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./toFinite": [
     {
       "id": "./node_modules/lodash/toFinite.js",
       "name": "./node_modules/lodash/toFinite.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./toNumber": [
     {
       "id": "./node_modules/lodash/toNumber.js",
       "name": "./node_modules/lodash/toNumber.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "lodash/pick": [
     {
       "id": "./node_modules/lodash/pick.js",
       "name": "./node_modules/lodash/pick.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_basePick": [
     {
       "id": "./node_modules/lodash/_basePick.js",
       "name": "./node_modules/lodash/_basePick.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_basePickBy": [
     {
       "id": "./node_modules/lodash/_basePickBy.js",
       "name": "./node_modules/lodash/_basePickBy.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseSet": [
     {
       "id": "./node_modules/lodash/_baseSet.js",
       "name": "./node_modules/lodash/_baseSet.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_assignValue": [
     {
       "id": "./node_modules/lodash/_assignValue.js",
       "name": "./node_modules/lodash/_assignValue.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseAssignValue": [
     {
       "id": "./node_modules/lodash/_baseAssignValue.js",
       "name": "./node_modules/lodash/_baseAssignValue.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_defineProperty": [
     {
       "id": "./node_modules/lodash/_defineProperty.js",
       "name": "./node_modules/lodash/_defineProperty.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_flatRest": [
     {
       "id": "./node_modules/lodash/_flatRest.js",
       "name": "./node_modules/lodash/_flatRest.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./flatten": [
     {
       "id": "./node_modules/lodash/flatten.js",
       "name": "./node_modules/lodash/flatten.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseFlatten": [
     {
       "id": "./node_modules/lodash/_baseFlatten.js",
       "name": "./node_modules/lodash/_baseFlatten.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_isFlattenable": [
     {
       "id": "./node_modules/lodash/_isFlattenable.js",
       "name": "./node_modules/lodash/_isFlattenable.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_overRest": [
     {
       "id": "./node_modules/lodash/_overRest.js",
       "name": "./node_modules/lodash/_overRest.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_apply": [
     {
       "id": "./node_modules/lodash/_apply.js",
       "name": "./node_modules/lodash/_apply.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_setToString": [
     {
       "id": "./node_modules/lodash/_setToString.js",
       "name": "./node_modules/lodash/_setToString.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_baseSetToString": [
     {
       "id": "./node_modules/lodash/_baseSetToString.js",
       "name": "./node_modules/lodash/_baseSetToString.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./constant": [
     {
       "id": "./node_modules/lodash/constant.js",
       "name": "./node_modules/lodash/constant.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./_shortOut": [
     {
       "id": "./node_modules/lodash/_shortOut.js",
       "name": "./node_modules/lodash/_shortOut.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "../../node_modules/css-loader/lib/css-base.js": [
     {
       "id": "./node_modules/css-loader/lib/css-base.js",
       "name": "./node_modules/css-loader/lib/css-base.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "!../../node_modules/style-loader/lib/addStyles.js": [
     {
       "id": "./node_modules/style-loader/lib/addStyles.js",
       "name": "./node_modules/style-loader/lib/addStyles.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./urls": [
     {
       "id": "./node_modules/style-loader/lib/urls.js",
       "name": "./node_modules/style-loader/lib/urls.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "redux-saga": [
     {
       "id": "./node_modules/redux-saga/es/index.js",
       "name": "./node_modules/redux-saga/es/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/middleware": [
     {
       "id": "./node_modules/redux-saga/es/internal/middleware.js",
       "name": "./node_modules/redux-saga/es/internal/middleware.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/utils": [
     {
       "id": "./node_modules/redux-saga/es/internal/utils.js",
       "name": "./node_modules/redux-saga/es/internal/utils.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/channel": [
     {
       "id": "./node_modules/redux-saga/es/internal/channel.js",
       "name": "./node_modules/redux-saga/es/internal/channel.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/buffers": [
     {
       "id": "./node_modules/redux-saga/es/internal/buffers.js",
       "name": "./node_modules/redux-saga/es/internal/buffers.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./scheduler": [
     {
       "id": "./node_modules/redux-saga/es/internal/scheduler.js",
       "name": "./node_modules/redux-saga/es/internal/scheduler.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/runSaga": [
     {
       "id": "./node_modules/redux-saga/es/internal/runSaga.js",
       "name": "./node_modules/redux-saga/es/internal/runSaga.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./proc": [
     {
       "id": "./node_modules/redux-saga/es/internal/proc.js",
       "name": "./node_modules/redux-saga/es/internal/proc.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/io": [
     {
       "id": "./node_modules/redux-saga/es/internal/io.js",
       "name": "./node_modules/redux-saga/es/internal/io.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/sagaHelpers": [
     {
       "id": "./node_modules/redux-saga/es/internal/sagaHelpers/index.js",
       "name": "./node_modules/redux-saga/es/internal/sagaHelpers/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./takeEvery": [
     {
       "id": "./node_modules/redux-saga/es/internal/sagaHelpers/takeEvery.js",
       "name": "./node_modules/redux-saga/es/internal/sagaHelpers/takeEvery.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./fsmIterator": [
     {
       "id": "./node_modules/redux-saga/es/internal/sagaHelpers/fsmIterator.js",
       "name": "./node_modules/redux-saga/es/internal/sagaHelpers/fsmIterator.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./takeLatest": [
     {
       "id": "./node_modules/redux-saga/es/internal/sagaHelpers/takeLatest.js",
       "name": "./node_modules/redux-saga/es/internal/sagaHelpers/takeLatest.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./throttle": [
     {
       "id": "./node_modules/redux-saga/es/internal/sagaHelpers/throttle.js",
       "name": "./node_modules/redux-saga/es/internal/sagaHelpers/throttle.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./effects": [
     {
       "id": "./node_modules/redux-saga/es/effects.js",
       "name": "./node_modules/redux-saga/es/effects.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./internal/io-helpers": [
     {
       "id": "./node_modules/redux-saga/es/internal/io-helpers.js",
       "name": "./node_modules/redux-saga/es/internal/io-helpers.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "@babel/runtime/regenerator": [
     {
       "id": "./node_modules/@babel/runtime/regenerator/index.js",
       "name": "./node_modules/@babel/runtime/regenerator/index.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "regenerator-runtime": [
     {
       "id": "./node_modules/regenerator-runtime/runtime-module.js",
       "name": "./node_modules/regenerator-runtime/runtime-module.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ],
   "./runtime": [
     {
       "id": "./node_modules/regenerator-runtime/runtime.js",
       "name": "./node_modules/regenerator-runtime/runtime.js",
-      "file": "vendor.95d0458f08f6ec456627.js",
-      "publicPath": "http://localhost:9000/vendor.95d0458f08f6ec456627.js"
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "isomorphic-fetch": [
+    {
+      "id": "./node_modules/isomorphic-fetch/fetch-npm-browserify.js",
+      "name": "./node_modules/isomorphic-fetch/fetch-npm-browserify.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "whatwg-fetch": [
+    {
+      "id": "./node_modules/whatwg-fetch/fetch.js",
+      "name": "./node_modules/whatwg-fetch/fetch.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
+    }
+  ],
+  "./../node_modules/node-libs-browser/node_modules/process/browser.js": [
+    {
+      "id": "./node_modules/node-libs-browser/node_modules/process/browser.js",
+      "name": "./node_modules/node-libs-browser/node_modules/process/browser.js",
+      "file": "vendor.9e6de45e06438593595b.js",
+      "publicPath": "http://localhost:9000/vendor.9e6de45e06438593595b.js"
     }
   ]
 }

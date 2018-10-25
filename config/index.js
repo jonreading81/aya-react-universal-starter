@@ -1,4 +1,4 @@
-import dev from './dev';
+import dev from './dev.json';
 
 if (process.env.PORT) {
   dev.app.port = process.env.PORT;

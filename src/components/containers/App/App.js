@@ -6,12 +6,13 @@ import { renderRoutes } from 'react-router-config';
 import { NavBar, NavToggle } from '../../presentation';
 import { toggleNavigation } from '../../../redux/modules/navigation/actions';
 import '../../../scss/main.scss';
+import './favicon.ico';
 import styles from './styles.scss';
 
 const items = [
   { title: 'Home', url: '/' },
   { title: 'Articles', url: '/articles' },
-  { title: 'Article', url: '/article/2' },
+  { title: 'Article', url: '/article/home' },
 ];
 
 const App = (props) => {

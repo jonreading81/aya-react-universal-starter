@@ -59,7 +59,18 @@ const config = {
             loader: "sass-loader"
           }
         ]
-      }
+      },
+      {
+       test: /\.ico$/,
+       use: [
+         {
+           loader: 'file-loader',
+           options: {
+             name: '[name].[ext]',
+           }
+         }
+       ]
+     }
     ]
   }
 };

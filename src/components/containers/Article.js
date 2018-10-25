@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import { connect } from 'react-redux';
-import { pending, rejected, fulfilled } from 'redux-saga-thunk';
+import { pending } from 'redux-saga-thunk';
 import { request as requestArticle } from '../../redux/modules/articles/actions';
 import { ARTICLES_REQUEST } from '../../redux/modules/articles/types';
 
@@ -26,9 +26,9 @@ class ArticleContainer extends Component {
     return '';
   }
 
+
   render() {
     const { name, id } = this.props;
-
     return (
       <div>
         <h2>Article</h2>
@@ -57,8 +57,6 @@ const mapStateToProps = state => (
   {
     ...state.articles,
     loading: pending(state, ARTICLES_REQUEST),
-    error: rejected(state, ARTICLES_REQUEST),
-    success: fulfilled(state, ARTICLES_REQUEST),
   }
 );
 

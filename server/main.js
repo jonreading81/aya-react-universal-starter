@@ -30,15 +30,14 @@ const getAppContent = (store, url, loadableCaptureReport) => (
 
 const preloadDataForRoute = (store, routes, url) => {
   const branch = matchRoutes(routes, url);
-  const promises = branch.map(({ route, match }) => {
+  const { route, match } = branch.find(({ match }) => match.isExact);
+  if (route && match) {
     const preloadData = route.component.preloadData;
     if (preloadData instanceof Function) {
       return preloadData(store, match.params);
     }
-    return Promise.resolve(null);
-  });
-
-  return promises;
+  }
+  return Promise.resolve(null);
 };
 
 export default function startServer({ chunks }) {
@@ -51,25 +50,25 @@ export default function startServer({ chunks }) {
   app.get('*', (req, res) => {
     const store = configureStore();
     const preloadData = preloadDataForRoute(store, routes, req.url);
-
-    return Promise.all(preloadData).then(() => {
-      /* used to create bundles for code splitting */
-      const loadedModules = [];
-      const loadableCaptureReport = module => loadedModules.push(module);
-      const appContent = getAppContent(store, req.url, loadableCaptureReport);
-      const bundles = getBundles(stats, loadedModules);
-      const htmlContent = renderToString(
-        <Html
-          bundles={bundles}
-          assets={assets}
-          appContent={appContent}
-          serialisedState={serialize(store.getState())}
-        />,
-      );
-      res.send(`<!DOCTYPE html>${htmlContent}`);
-    }).catch((err) => {
-      res.send(err);
-    });
+    let htmlContent = '';
+    preloadData.catch(() => {
+      console.log('error preloading data');
+    })
+      .finally(() => {
+        const loadedModules = [];
+        const loadableCaptureReport = module => loadedModules.push(module);
+        const appContent = getAppContent(store, req.url, loadableCaptureReport);
+        const bundles = getBundles(stats, loadedModules);
+        htmlContent = renderToString(
+          <Html
+            bundles={bundles}
+            assets={assets}
+            appContent={appContent}
+            serialisedState={serialize(store.getState())}
+          />,
+        );
+        res.send(`<!DOCTYPE html>${htmlContent}`);
+      });
   });
 
   Loadable.preloadAll().then(() => {

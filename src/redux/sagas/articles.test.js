@@ -1,4 +1,7 @@
-import { put, takeEvery } from 'redux-saga/effects';
+import { put, takeEvery, call } from 'redux-saga/effects';
+import { expectSaga } from 'redux-saga-test-plan';
+import * as matchers from 'redux-saga-test-plan/matchers';
+import { throwError } from 'redux-saga-test-plan/providers';
 
 import {
   requestArticle,
@@ -11,6 +14,8 @@ import {
 } from '../modules/articles/actions';
 
 import { ARTICLES_REQUEST } from '../modules/articles/types';
+import apiClient from '../../services/apiClient';
+
 
 describe('watchRequestArticle saga', () => {
   it('should take every ARTICLE_REQUEST action', () => {
@@ -21,26 +26,31 @@ describe('watchRequestArticle saga', () => {
 });
 
 describe('requestArticle', () => {
-  let iterator;
   const action = {
     id: 1,
     meta: 'test',
   };
-  const expectedData = {
+  const articleData = {
     name: 'Danny kins',
     id: action.id
   };
   const error = {};
-  const expectedSuccessAction = successAction(expectedData, action.meta);
-  const expectedErrorAction = errorAction(error, action.meta);
-  iterator = requestArticle(action);
 
-  it('should delay 1000ms then call success action', () => {
-    iterator.next();
-    expect(iterator.next().value).toEqual(put(expectedSuccessAction));
+  it('should request data from api call success action', () => {
+    return expectSaga(requestArticle, action)
+      .provide([
+        [call(apiClient, {url: 'wp-json/pages?slug=1'}), articleData],
+      ])
+      .put(successAction(articleData, action.meta))
+    .run();
   });
 
-  it('handle error', () => {
-    expect(iterator.throw(error).value).toEqual(put(expectedErrorAction));
+  it('should handle api  error', () => {
+    return expectSaga(requestArticle, action)
+      .provide([
+        [call(apiClient, {url: 'wp-json/pages?slug=1'}), throwError(error)],
+      ])
+      .put(errorAction(error, action.meta))
+    .run();
   });
 });
